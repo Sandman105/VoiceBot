@@ -1,0 +1,202 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  body {
+    background: slategray;
+  }
+  
+  .silly {
+    font-family: 'Amatic SC', sans-serif;
+  }
+  
+  .column {
+    float: left;
+    height: fit-content;
+    text-align: center;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 50%;
+    align-content: center;
+    margin: auto;
+    height: 100px;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    align-items: center;
+  }
+  
+  #chatInput {
+    position: sticky;
+    width: 100%;
+    color: #000000;
+    text-align: center;
+    border: none;
+    background: none;
+    width: 100%;
+  }
+  
+  #chatArea {
+    position: absolute;
+    bottom: 0;
+    font-size: 0.8em;
+    height: fit-content;
+    overflow: hidden;
+  }
+  
+  .bubbleText {
+    background: #577284;
+    border-radius: 15%;
+    color: white;
+    padding: 1em;
+  }
+  
+  a,
+  div:focus,
+  div:active,
+  button,
+  button:active, 
+  button:focus, 
+  input:active, 
+  input:focus,
+  link,
+  link:active,
+  link:focus {
+    border: none;
+    outline: none;
+    background: none;
+    text-decoration: none;
+  }
+  
+  img, .clickable {
+    cursor: pointer;
+    text-decoration: none;
+    filter: invert(100%);
+  }
+  
+  #menuOptions {
+    display: none;
+    font-size: 1em;
+    transition: 0.4s forward;
+  }
+  
+  .noDisplay {
+      display: none;
+  }
+  
+  .big {
+    font-size: 1.4em;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #dddddd;
+    position: relative;
+  }
+    
+  .rps {
+    opacity: 0.7;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    filter: invert(44%) sepia(38%) saturate(305%) hue-rotate(161deg) brightness(88%) contrast(89%);
+  }
+  
+  #rpsButtons {
+    margin: auto;
+    background: #ddd;
+    position: sticky;
+    
+  }
+  
+  .topnav a {
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+    display: block;
+  }
+  
+  .active {
+    background-color: #577284;
+    color: white;
+  }
+  
+  .overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  
+  .overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+  }
+  
+  .overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    opacity: 0.3;
+  }
+   
+  @media screen and (max-width: 500px) {
+    .header {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    
+    .header-right {
+      float: none;
+    }
+  }
+  
+  @media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    }
+  }
