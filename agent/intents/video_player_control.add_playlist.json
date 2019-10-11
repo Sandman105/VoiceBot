@@ -1,0 +1,53 @@
+{
+  "id": "0093c7cf-9690-4ccd-8d6d-c9d9b782bedf",
+  "name": "video_player_control.add_playlist",
+  "auto": true,
+  "contexts": [
+    "video-player-control"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "video_player_control.add_playlist",
+      "affectedContexts": [
+        {
+          "name": "video-player-control",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3e9a6f50-da76-4fc2-a601-d815a0e73752",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "playlist",
+          "value": "$playlist",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

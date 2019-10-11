@@ -1,0 +1,40 @@
+{
+  "id": "e11dbb4c-52de-4270-88bc-c49912e1468f",
+  "name": "video_player_control.stop",
+  "auto": true,
+  "contexts": [
+    "video-player-control"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "video_player_control.stop",
+      "affectedContexts": [
+        {
+          "name": "video-player-control",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,969 @@
+[
+  {
+    "id": "fb8bf197-9f35-4c0c-b3df-15d5e84d7da2",
+    "data": [
+      {
+        "text": "now with ",
+        "userDefined": false
+      },
+      {
+        "text": "Bruce Lee",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ed7b056-f94c-4d3d-a748-e13b67ced11d",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53de4628-093a-4bf4-ae89-2fcfcd11dca2",
+    "data": [
+      {
+        "text": "now from ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33283265-5e99-4183-90b7-5532d01e90b4",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b08d6a8-0404-4eac-8907-8851d78a246a",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Rihanna",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      },
+      {
+        "text": " ft ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7ee28c5-562b-4e25-91fa-baf83f6439ac",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "service",
+        "meta": "@video-service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7548277b-3592-46b5-a3d1-548a8b81bd2f",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Michael Jackson",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      },
+      {
+        "text": " clip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f10d6c0f-9208-481d-9cf3-5456dd27cfdb",
+    "data": [
+      {
+        "text": "now song ",
+        "userDefined": false
+      },
+      {
+        "text": "Eye of a Tiger",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a74c7437-e0ef-4343-9235-832369187a14",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "George Clooney",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "816cb1e8-fdbc-4704-8c38-307602b90e51",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movie-genre",
+        "meta": "@movie-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f6e2983-aeae-43b1-bafb-f606062d047d",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Maroon 5",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6397249a-7932-4f72-997b-3d34d5477968",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Brad Pitt",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8a94dd6-8a12-45d9-a89f-aacb9bbe0d41",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Justin Bieber",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "477809df-e5f2-4ad0-a0ea-bc4211a6ad48",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Umbrella",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Rihanna",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c1469b0-c6d7-4aeb-afc0-322b0fa43d98",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Willy Williams",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ego",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ecd3f07-94a8-404d-b1a3-2fdfee4a902a",
+    "data": [
+      {
+        "text": "now about ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "video",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c87e3d6f-c94e-4a3b-a8fd-7a10009dd19d",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarantino",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1288f9e-1118-4a45-bfb7-9dad8f2c51d5",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "George Lucas",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89f5a065-d499-41e9-a0e8-fdb88af739de",
+    "data": [
+      {
+        "text": "and in ",
+        "userDefined": false
+      },
+      {
+        "text": "Spanish",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fea68dc4-c222-4da6-927d-3087dcaa5163",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Harry Potter",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a86ed623-97cb-4177-869a-50fdbc675fa7",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "Titanic",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ef3f04e-0c9f-418e-afc5-38f7406fd94e",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Awolnation",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sale",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a885834d-0006-4584-bf7a-20482bf5f47d",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Adele",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c7e36ca-1159-4878-a639-c1f48bc82e54",
+    "data": [
+      {
+        "text": "now movie with ",
+        "userDefined": false
+      },
+      {
+        "text": "Tom Cruise",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad2c7cf-5d6f-4160-bda6-b2d2acb3dc51",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Drake",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e61516f-a8d4-4d01-8162-3a38668a44d9",
+    "data": [
+      {
+        "text": "the one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ab32950-b184-4744-b4c2-6493d91c09f0",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "671517c4-3f28-4f62-bf2d-054ce0d7a06a",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e890dab7-4221-439a-a947-8f04603151fc",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "service",
+        "meta": "@video-service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97d0d29c-b907-46a1-9914-e777a6794b80",
+    "data": [
+      {
+        "text": "now find ",
+        "userDefined": false
+      },
+      {
+        "text": "funny puppies",
+        "alias": "video",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d316ad18-1cf6-45bc-8496-63504dc64e7c",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "trailer",
+        "alias": "trailer",
+        "meta": "@trailer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9460373d-d185-42cc-b59e-21ad65938d68",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Bludfire",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Eva Simons",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fc101f6-a916-469a-a795-4e6392663650",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef923e08-5db8-4c0a-a76e-d86878424ea9",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movie-genre",
+        "meta": "@movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "02105267-0835-4858-8f17-c25e9f432b19",
+    "data": [
+      {
+        "text": "how about ",
+        "userDefined": false
+      },
+      {
+        "text": "Adele",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d36c19a3-ece6-480a-aa49-f6641fcdcd9b",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Diamonds",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      },
+      {
+        "text": " song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "417abeda-6a94-43b9-baba-24e810ffeefe",
+    "data": [
+      {
+        "text": "now a ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1530964-d09e-4370-8994-3278bc7a9c20",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Avengers",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e9e69fa-0a5f-45ce-8320-4e18a1f44da6",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "jazz",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5378c8e6-c8c3-4c28-b928-011d179a13c7",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movie-genre",
+        "meta": "@movie-genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f405d07-ebe3-4583-a75d-5ef39078719b",
+    "data": [
+      {
+        "text": "no a ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movie-genre",
+        "meta": "@movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a387c8e6-3ddd-44ba-8748-96efe5ba24ad",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Justin Bieber",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb55190c-c4b5-4454-bf93-c41c2cf0070f",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Avengers",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76df43ad-f3be-41a4-8ec1-ac8ead861e35",
+    "data": [
+      {
+        "text": "now ",
+        "userDefined": false
+      },
+      {
+        "text": "Martin Scorsese",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "357dcf2a-c3b2-4ac5-a916-7bbd8e80b321",
+    "data": [
+      {
+        "text": "how about year ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

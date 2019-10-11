@@ -1,0 +1,566 @@
+[
+  {
+    "value": "Al Pacino",
+    "synonyms": [
+      "Al Pacino"
+    ]
+  },
+  {
+    "value": "Alan Arkin",
+    "synonyms": [
+      "Alan Arkin"
+    ]
+  },
+  {
+    "value": "Alan Rickman",
+    "synonyms": [
+      "Alan Rickman"
+    ]
+  },
+  {
+    "value": "Albert Finney",
+    "synonyms": [
+      "Albert Finney"
+    ]
+  },
+  {
+    "value": "Alec Guinness",
+    "synonyms": [
+      "Alec Guinness"
+    ]
+  },
+  {
+    "value": "Anthony Hopkins",
+    "synonyms": [
+      "Anthony Hopkins"
+    ]
+  },
+  {
+    "value": "Anthony Quinn",
+    "synonyms": [
+      "Anthony Quinn"
+    ]
+  },
+  {
+    "value": "Ben Kingsley",
+    "synonyms": [
+      "Ben Kingsley"
+    ]
+  },
+  {
+    "value": "Benicio Del Toro",
+    "synonyms": [
+      "Benicio Del Toro"
+    ]
+  },
+  {
+    "value": "Bill Murray",
+    "synonyms": [
+      "Bill Murray"
+    ]
+  },
+  {
+    "value": "Brad Pitt",
+    "synonyms": [
+      "Brad Pitt"
+    ]
+  },
+  {
+    "value": "Bruce Willis",
+    "synonyms": [
+      "Bruce Willis"
+    ]
+  },
+  {
+    "value": "Burt Lancaster",
+    "synonyms": [
+      "Burt Lancaster"
+    ]
+  },
+  {
+    "value": "Buster Keaton",
+    "synonyms": [
+      "Buster Keaton"
+    ]
+  },
+  {
+    "value": "Cary Grant",
+    "synonyms": [
+      "Cary Grant"
+    ]
+  },
+  {
+    "value": "Charles Chaplin",
+    "synonyms": [
+      "Charles Chaplin"
+    ]
+  },
+  {
+    "value": "Charles Laughton",
+    "synonyms": [
+      "Charles Laughton"
+    ]
+  },
+  {
+    "value": "Charlton Heston",
+    "synonyms": [
+      "Charlton Heston"
+    ]
+  },
+  {
+    "value": "Christian Bale",
+    "synonyms": [
+      "Christian Bale"
+    ]
+  },
+  {
+    "value": "Christoph Waltz",
+    "synonyms": [
+      "Christoph Waltz"
+    ]
+  },
+  {
+    "value": "Christopher Plummer",
+    "synonyms": [
+      "Christopher Plummer"
+    ]
+  },
+  {
+    "value": "Christopher Walken",
+    "synonyms": [
+      "Christopher Walken"
+    ]
+  },
+  {
+    "value": "Clark Gable",
+    "synonyms": [
+      "Clark Gable"
+    ]
+  },
+  {
+    "value": "Clint Eastwood",
+    "synonyms": [
+      "Clint Eastwood"
+    ]
+  },
+  {
+    "value": "Colin Firth",
+    "synonyms": [
+      "Colin Firth"
+    ]
+  },
+  {
+    "value": "Denzel Washington",
+    "synonyms": [
+      "Denzel Washington"
+    ]
+  },
+  {
+    "value": "Don Cheadle",
+    "synonyms": [
+      "Don Cheadle"
+    ]
+  },
+  {
+    "value": "Edward Norton",
+    "synonyms": [
+      "Edward Norton"
+    ]
+  },
+  {
+    "value": "Gary Cooper",
+    "synonyms": [
+      "Gary Cooper"
+    ]
+  },
+  {
+    "value": "Gary Oldman",
+    "synonyms": [
+      "Gary Oldman"
+    ]
+  },
+  {
+    "value": "Gene Hackman",
+    "synonyms": [
+      "Gene Hackman"
+    ]
+  },
+  {
+    "value": "Gene Kelly",
+    "synonyms": [
+      "Gene Kelly"
+    ]
+  },
+  {
+    "value": "Geoffrey Rush",
+    "synonyms": [
+      "Geoffrey Rush"
+    ]
+  },
+  {
+    "value": "Gregory Peck",
+    "synonyms": [
+      "Gregory Peck"
+    ]
+  },
+  {
+    "value": "Harrison Ford",
+    "synonyms": [
+      "Harrison Ford"
+    ]
+  },
+  {
+    "value": "Heath Ledger",
+    "synonyms": [
+      "Heath Ledger"
+    ]
+  },
+  {
+    "value": "Henry Fonda",
+    "synonyms": [
+      "Henry Fonda"
+    ]
+  },
+  {
+    "value": "Hugh Jackman",
+    "synonyms": [
+      "Hugh Jackman"
+    ]
+  },
+  {
+    "value": "Humphrey Bogart",
+    "synonyms": [
+      "Humphrey Bogart"
+    ]
+  },
+  {
+    "value": "Ian McKellen",
+    "synonyms": [
+      "Ian McKellen"
+    ]
+  },
+  {
+    "value": "Jack Lemmon",
+    "synonyms": [
+      "Jack Lemmon"
+    ]
+  },
+  {
+    "value": "Jack Nicholson",
+    "synonyms": [
+      "Jack Nicholson"
+    ]
+  },
+  {
+    "value": "Jackson",
+    "synonyms": [
+      "Jackson"
+    ]
+  },
+  {
+    "value": "James Cagney",
+    "synonyms": [
+      "James Cagney"
+    ]
+  },
+  {
+    "value": "James Dean",
+    "synonyms": [
+      "James Dean"
+    ]
+  },
+  {
+    "value": "James Stewart",
+    "synonyms": [
+      "James Stewart"
+    ]
+  },
+  {
+    "value": "Jamie Foxx",
+    "synonyms": [
+      "Jamie Foxx"
+    ]
+  },
+  {
+    "value": "Jason Robards",
+    "synonyms": [
+      "Jason Robards"
+    ]
+  },
+  {
+    "value": "Javier Bardem",
+    "synonyms": [
+      "Javier Bardem"
+    ]
+  },
+  {
+    "value": "Jeff Bridges",
+    "synonyms": [
+      "Jeff Bridges"
+    ]
+  },
+  {
+    "value": "Jeremy Irons",
+    "synonyms": [
+      "Jeremy Irons"
+    ]
+  },
+  {
+    "value": "Jim Carrey",
+    "synonyms": [
+      "Jim Carrey"
+    ]
+  },
+  {
+    "value": "Joaquin Phoenix",
+    "synonyms": [
+      "Joaquin Phoenix"
+    ]
+  },
+  {
+    "value": "Joe Pesci",
+    "synonyms": [
+      "Joe Pesci"
+    ]
+  },
+  {
+    "value": "John Wayne",
+    "synonyms": [
+      "John Wayne"
+    ]
+  },
+  {
+    "value": "Johnny Depp",
+    "synonyms": [
+      "Johnny Depp"
+    ]
+  },
+  {
+    "value": "Jon Voight",
+    "synonyms": [
+      "Jon Voight"
+    ]
+  },
+  {
+    "value": "Kevin Spacey",
+    "synonyms": [
+      "Kevin Spacey"
+    ]
+  },
+  {
+    "value": "Kirk Douglas",
+    "synonyms": [
+      "Kirk Douglas"
+    ]
+  },
+  {
+    "value": "Laurence Olivier",
+    "synonyms": [
+      "Laurence Olivier"
+    ]
+  },
+  {
+    "value": "Leonardo DiCaprio",
+    "synonyms": [
+      "Leonardo DiCaprio"
+    ]
+  },
+  {
+    "value": "Liam Neeson",
+    "synonyms": [
+      "Liam Neeson"
+    ]
+  },
+  {
+    "value": "Marlon Brando",
+    "synonyms": [
+      "Marlon Brando"
+    ]
+  },
+  {
+    "value": "Martin Sheen",
+    "synonyms": [
+      "Martin Sheen"
+    ]
+  },
+  {
+    "value": "Matt Damon",
+    "synonyms": [
+      "Matt Damon"
+    ]
+  },
+  {
+    "value": "Matthew McConaughey",
+    "synonyms": [
+      "Matthew McConaughey"
+    ]
+  },
+  {
+    "value": "Mel Gibson",
+    "synonyms": [
+      "Mel Gibson"
+    ]
+  },
+  {
+    "value": "Michael Caine",
+    "synonyms": [
+      "Michael Caine"
+    ]
+  },
+  {
+    "value": "Michael Douglas",
+    "synonyms": [
+      "Michael Douglas"
+    ]
+  },
+  {
+    "value": "Morgan Freeman",
+    "synonyms": [
+      "Morgan Freeman"
+    ]
+  },
+  {
+    "value": "Orson Welles",
+    "synonyms": [
+      "Orson Welles"
+    ]
+  },
+  {
+    "value": "Paul Newman",
+    "synonyms": [
+      "Paul Newman"
+    ]
+  },
+  {
+    "value": "Peter Finch",
+    "synonyms": [
+      "Peter Finch"
+    ]
+  },
+  {
+    "value": "Peter O\u0027Toole",
+    "synonyms": [
+      "Peter O\u0027Toole"
+    ]
+  },
+  {
+    "value": "Philip Seymour Hoffman",
+    "synonyms": [
+      "Philip Seymour Hoffman"
+    ]
+  },
+  {
+    "value": "Ralph Fiennes",
+    "synonyms": [
+      "Ralph Fiennes"
+    ]
+  },
+  {
+    "value": "Richard Burton",
+    "synonyms": [
+      "Richard Burton"
+    ]
+  },
+  {
+    "value": "Robert De Niro",
+    "synonyms": [
+      "Robert De Niro"
+    ]
+  },
+  {
+    "value": "Robert Duvall",
+    "synonyms": [
+      "Robert Duvall"
+    ]
+  },
+  {
+    "value": "Robert Mitchum",
+    "synonyms": [
+      "Robert Mitchum"
+    ]
+  },
+  {
+    "value": "Robert Redford",
+    "synonyms": [
+      "Robert Redford"
+    ]
+  },
+  {
+    "value": "Robin Williams",
+    "synonyms": [
+      "Robin Williams"
+    ]
+  },
+  {
+    "value": "Russell Crowe",
+    "synonyms": [
+      "Russell Crowe"
+    ]
+  },
+  {
+    "value": "Sean Penn",
+    "synonyms": [
+      "Sean Penn"
+    ]
+  },
+  {
+    "value": "Sidney Poitier",
+    "synonyms": [
+      "Sidney Poitier"
+    ]
+  },
+  {
+    "value": "Spencer Tracy",
+    "synonyms": [
+      "Spencer Tracy"
+    ]
+  },
+  {
+    "value": "Steve McQueen",
+    "synonyms": [
+      "Steve McQueen"
+    ]
+  },
+  {
+    "value": "Tom Cruise",
+    "synonyms": [
+      "Tom Cruise"
+    ]
+  },
+  {
+    "value": "Tom Hanks",
+    "synonyms": [
+      "Tom Hanks"
+    ]
+  },
+  {
+    "value": "Tom Hardy",
+    "synonyms": [
+      "Tom Hardy"
+    ]
+  },
+  {
+    "value": "Tommy Lee Jones",
+    "synonyms": [
+      "Tommy Lee Jones"
+    ]
+  },
+  {
+    "value": "Will Smith",
+    "synonyms": [
+      "Will Smith"
+    ]
+  },
+  {
+    "value": "William Holden",
+    "synonyms": [
+      "William Holden"
+    ]
+  },
+  {
+    "value": "Woody Allen",
+    "synonyms": [
+      "Woody Allen"
+    ]
+  }
+]

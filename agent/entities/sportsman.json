@@ -1,0 +1,9 @@
+{
+  "id": "ea8692c6-da5f-4a46-949b-e23935e31011",
+  "name": "sportsman",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,987 @@
+[
+  {
+    "id": "e2a224dd-a40a-4330-a05c-1b351e6ec241",
+    "data": [
+      {
+        "text": "download video ",
+        "userDefined": false
+      },
+      {
+        "text": "funny kittens",
+        "alias": "video",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f88de663-cbd8-44cd-9259-7dba30d048e8",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " download ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7886950-6395-4d0b-97a9-15bcaf68e07c",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "service",
+        "meta": "@video-service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "videos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "57f45d2e-bc8d-4c09-a421-e0dfd87ece82",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2cfc9bd-fbfd-43e2-ba19-197df210e705",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Avengers",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35a9ab10-977b-45fc-9e81-0022be5c135f",
+    "data": [
+      {
+        "text": "I\u0027d like to download ",
+        "userDefined": false
+      },
+      {
+        "text": "Shakira",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s videos from ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "service",
+        "meta": "@video-service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b25e0948-ea16-4c62-8094-922e3b608890",
+    "data": [
+      {
+        "text": "I\u0027d like to download ",
+        "userDefined": false
+      },
+      {
+        "text": "r\u0026b",
+        "alias": "music-genre",
+        "meta": "@sys.music-genre",
+        "userDefined": true
+      },
+      {
+        "text": " videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "654633f9-39a3-43ba-bd70-adc7a8d1605e",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "free",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a737689-99d1-46d2-ba61-4060456ea38e",
+    "data": [
+      {
+        "text": "I need to download ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c1d8d92-d5bc-418a-b9f6-7ca46db431a4",
+    "data": [
+      {
+        "text": "download a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a36c9f50-3e88-4df8-ae3a-79b59b32394d",
+    "data": [
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " download",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6126cf25-810a-48f9-8efb-3e0234fbc4dc",
+    "data": [
+      {
+        "text": " download some ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Tom Hardy",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5b2be4d-f1b0-490a-8456-62c5a0372783",
+    "data": [
+      {
+        "text": "how to download ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d9dda2a-17f5-4302-9df3-d701cd399830",
+    "data": [
+      {
+        "text": "how to download a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "425da595-fba4-4e6a-98c1-5148e820eb1d",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "a movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70bccf5d-b3ab-4bf0-bf41-e18285e028fd",
+    "data": [
+      {
+        "text": "free",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " downloads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26d1a885-4558-444b-a839-381a55b08706",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " download a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79fa3310-1a2a-4a17-b3a2-946cfa9f6524",
+    "data": [
+      {
+        "text": "download videos from year ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26e84090-4aa1-4d55-ad6c-b56a9dc595ad",
+    "data": [
+      {
+        "text": "download",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "videos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "service",
+        "meta": "@video-service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e72f09a0-14a7-43aa-ac69-6a80d1183adb",
+    "data": [
+      {
+        "text": "download",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "Bengali",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dd97fd4c-1084-430b-8bf0-9ec03835af1d",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I download a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "baae816a-2544-45a8-a6cf-3b157ce4979b",
+    "data": [
+      {
+        "text": "download a ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movie-genre",
+        "meta": "@movie-genre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d538e594-45cb-4e66-873b-9cf3a3a86ac3",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Rihanna",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": " videos from ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "alias": "year",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d69954f-8c68-4bbd-a4e5-aabb6f279dc1",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to download a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a44a155d-eaa2-44ab-97ee-59b484494be8",
+    "data": [
+      {
+        "text": "I want to download a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78329c32-ca62-4812-abbb-f99355a8064f",
+    "data": [
+      {
+        "text": "download",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "videos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hindi",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5171471-a30b-46da-82d4-a0d7f86475be",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Titanic",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": true
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66ff7376-2219-4a58-ab1e-942fb75bd7b3",
+    "data": [
+      {
+        "text": "I want to download new ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Tom Cruise",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71a7ff98-4cb7-4602-90bf-14db6c7dac21",
+    "data": [
+      {
+        "text": "download something by ",
+        "userDefined": false
+      },
+      {
+        "text": "Tarantino",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23dd9b80-f393-488d-b18b-7e04bb058a6f",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Adele",
+        "alias": "person",
+        "meta": "@person",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s video ",
+        "userDefined": false
+      },
+      {
+        "text": "Hello",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "592ca315-d294-4dac-bcbf-fd333ff8eab3",
+    "data": [
+      {
+        "text": "download",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfba73f6-3f50-400d-95ce-f17c742e1aa1",
+    "data": [
+      {
+        "text": "can you download a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92b62e20-7b26-40ad-b3fe-8186f00e163d",
+    "data": [
+      {
+        "text": "I want to download full ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3be9b13-1766-422b-a08b-5a6002ddc519",
+    "data": [
+      {
+        "text": "download some ",
+        "userDefined": false
+      },
+      {
+        "text": "movies",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cea88a75-3768-4e91-87c4-6ed9ef9db383",
+    "data": [
+      {
+        "text": "could you download ",
+        "userDefined": false
+      },
+      {
+        "text": "Harry Potter and the Chamber of Secrets",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "trailer",
+        "alias": "trailer",
+        "meta": "@trailer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ec25564-4b47-487b-8705-fdfd444f3817",
+    "data": [
+      {
+        "text": "could you download a ",
+        "userDefined": false
+      },
+      {
+        "text": "Spanish",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b67be1da-4833-45bc-a636-1a712670a476",
+    "data": [
+      {
+        "text": "download",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Avengers",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Youtube",
+        "alias": "service",
+        "meta": "@video-service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b121b723-089a-4fec-a70a-bc3a849aa194",
+    "data": [
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " downloader",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dd5f3bb-3adf-45c2-a9b5-b9fb5e0a3fe4",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Fifty Shades of Grey",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14b81abe-3ab7-4b1e-8c95-ef51f1a25d00",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Man in Black",
+        "alias": "movie",
+        "meta": "@movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

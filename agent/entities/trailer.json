@@ -1,0 +1,9 @@
+{
+  "id": "cc52c690-065b-48f3-92ff-309576fb64fd",
+  "name": "trailer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
