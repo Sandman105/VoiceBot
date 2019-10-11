@@ -1,0 +1,152 @@
+[
+  {
+    "id": "8b379b14-ac2f-4006-b80a-fa8ac5f26482",
+    "data": [
+      {
+        "text": "video",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da8a05bf-2168-4f95-b8b6-bb792cf461cb",
+    "data": [
+      {
+        "text": "enough videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3361ca96-8070-44c2-b64c-f6ecdfba90cb",
+    "data": [
+      {
+        "text": "could you ",
+        "userDefined": false
+      },
+      {
+        "text": "stop",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "509fcd0e-4b49-4300-a59c-d80e1ba14546",
+    "data": [
+      {
+        "text": "stop playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0437d20c-206b-49ad-af6e-79b273d5f359",
+    "data": [
+      {
+        "text": "can you stop the movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "324c8cf1-6eee-4fea-ae88-0c4211b9687d",
+    "data": [
+      {
+        "text": "stop",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa725fec-5b32-4975-a20f-620967cf7b54",
+    "data": [
+      {
+        "text": "enough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "194d3259-800a-4628-a1a6-aa9e3f5361a2",
+    "data": [
+      {
+        "text": "turn off",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df6bbbf3-a191-40b9-97c1-57c609e40e46",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba2400aa-719b-4e51-be66-bc4734b1481c",
+    "data": [
+      {
+        "text": "stop the video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

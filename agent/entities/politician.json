@@ -1,0 +1,9 @@
+{
+  "id": "06aaec5e-55b4-4072-8d25-4844851b02d2",
+  "name": "politician",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

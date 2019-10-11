@@ -1,0 +1,9 @@
+{
+  "id": "8f880d4f-6202-4bb7-a666-5d00cc7d25f6",
+  "name": "movie-director",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

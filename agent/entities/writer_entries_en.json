@@ -1,0 +1,614 @@
+[
+  {
+    "value": "Advertisements",
+    "synonyms": [
+      "Advertisements"
+    ]
+  },
+  {
+    "value": "Aldous Huxley",
+    "synonyms": [
+      "Aldous Huxley"
+    ]
+  },
+  {
+    "value": "Alexander Pushkin",
+    "synonyms": [
+      "Alexander Pushkin"
+    ]
+  },
+  {
+    "value": "Alfred Lord Tennyson",
+    "synonyms": [
+      "Alfred Lord Tennyson"
+    ]
+  },
+  {
+    "value": "Anthony Burgess",
+    "synonyms": [
+      "Anthony Burgess"
+    ]
+  },
+  {
+    "value": "Anton Chekhov",
+    "synonyms": [
+      "Anton Chekhov"
+    ]
+  },
+  {
+    "value": "Ayn Rand",
+    "synonyms": [
+      "Ayn Rand"
+    ]
+  },
+  {
+    "value": "Carson McCullers",
+    "synonyms": [
+      "Carson McCullers"
+    ]
+  },
+  {
+    "value": "Charles Baudelaire",
+    "synonyms": [
+      "Charles Baudelaire"
+    ]
+  },
+  {
+    "value": "Charles Bukowski",
+    "synonyms": [
+      "Charles Bukowski"
+    ]
+  },
+  {
+    "value": "Charles Dickens",
+    "synonyms": [
+      "Charles Dickens"
+    ]
+  },
+  {
+    "value": "Charlotte Bronte",
+    "synonyms": [
+      "Charlotte Bronte"
+    ]
+  },
+  {
+    "value": "D.H. Lawrence",
+    "synonyms": [
+      "D.H. Lawrence"
+    ]
+  },
+  {
+    "value": "Dante Aligheri",
+    "synonyms": [
+      "Dante Aligheri"
+    ]
+  },
+  {
+    "value": "E.M. Forster",
+    "synonyms": [
+      "E.M. Forster"
+    ]
+  },
+  {
+    "value": "Edgar Allan Poe",
+    "synonyms": [
+      "Edgar Allan Poe"
+    ]
+  },
+  {
+    "value": "Edith Wharton",
+    "synonyms": [
+      "Edith Wharton"
+    ]
+  },
+  {
+    "value": "Emily Bronte",
+    "synonyms": [
+      "Emily Bronte"
+    ]
+  },
+  {
+    "value": "Emily Dickinson",
+    "synonyms": [
+      "Emily Dickinson"
+    ]
+  },
+  {
+    "value": "Ernest Hemingway",
+    "synonyms": [
+      "Ernest Hemingway"
+    ]
+  },
+  {
+    "value": "Euripides",
+    "synonyms": [
+      "Euripides"
+    ]
+  },
+  {
+    "value": "Evelyn Waugh",
+    "synonyms": [
+      "Evelyn Waugh"
+    ]
+  },
+  {
+    "value": "F. Scott Fitzgerald",
+    "synonyms": [
+      "F. Scott Fitzgerald"
+    ]
+  },
+  {
+    "value": "Flannery O’Connor",
+    "synonyms": [
+      "Flannery O’Connor"
+    ]
+  },
+  {
+    "value": "Ford Madox Ford",
+    "synonyms": [
+      "Ford Madox Ford"
+    ]
+  },
+  {
+    "value": "Franz Kafka",
+    "synonyms": [
+      "Franz Kafka"
+    ]
+  },
+  {
+    "value": "Fyodor Dostoyevsky",
+    "synonyms": [
+      "Fyodor Dostoyevsky"
+    ]
+  },
+  {
+    "value": "Gabriel Garcia Marquez",
+    "synonyms": [
+      "Gabriel Garcia Marquez"
+    ]
+  },
+  {
+    "value": "Geoffrey Chaucer",
+    "synonyms": [
+      "Geoffrey Chaucer"
+    ]
+  },
+  {
+    "value": "George Eliot",
+    "synonyms": [
+      "George Eliot"
+    ]
+  },
+  {
+    "value": "George Orwell",
+    "synonyms": [
+      "George Orwell"
+    ]
+  },
+  {
+    "value": "Gertrude Stein",
+    "synonyms": [
+      "Gertrude Stein"
+    ]
+  },
+  {
+    "value": "Gustave Flaubert",
+    "synonyms": [
+      "Gustave Flaubert"
+    ]
+  },
+  {
+    "value": "Harper Lee",
+    "synonyms": [
+      "Harper Lee"
+    ]
+  },
+  {
+    "value": "Henry Fielding",
+    "synonyms": [
+      "Henry Fielding"
+    ]
+  },
+  {
+    "value": "Henry James",
+    "synonyms": [
+      "Henry James"
+    ]
+  },
+  {
+    "value": "Henry Miller",
+    "synonyms": [
+      "Henry Miller"
+    ]
+  },
+  {
+    "value": "Henry Wadsworth Longfellow",
+    "synonyms": [
+      "Henry Wadsworth Longfellow"
+    ]
+  },
+  {
+    "value": "Herman Melville",
+    "synonyms": [
+      "Herman Melville"
+    ]
+  },
+  {
+    "value": "Homer",
+    "synonyms": [
+      "Homer"
+    ]
+  },
+  {
+    "value": "Honore’ de Balzac",
+    "synonyms": [
+      "Honore’ de Balzac"
+    ]
+  },
+  {
+    "value": "Ivan Turgenev",
+    "synonyms": [
+      "Ivan Turgenev"
+    ]
+  },
+  {
+    "value": "J.D. Salinger",
+    "synonyms": [
+      "J.D. Salinger"
+    ]
+  },
+  {
+    "value": "J.R.R Tolkien",
+    "synonyms": [
+      "J.R.R Tolkien"
+    ]
+  },
+  {
+    "value": "Jack Kerouac",
+    "synonyms": [
+      "Jack Kerouac"
+    ]
+  },
+  {
+    "value": "Jack London",
+    "synonyms": [
+      "Jack London"
+    ]
+  },
+  {
+    "value": "James Baldwin",
+    "synonyms": [
+      "James Baldwin"
+    ]
+  },
+  {
+    "value": "James Joyce",
+    "synonyms": [
+      "James Joyce"
+    ]
+  },
+  {
+    "value": "Jane Austen",
+    "synonyms": [
+      "Jane Austen"
+    ]
+  },
+  {
+    "value": "Johann Wolfgang von Goethe",
+    "synonyms": [
+      "Johann Wolfgang von Goethe"
+    ]
+  },
+  {
+    "value": "John Donne",
+    "synonyms": [
+      "John Donne"
+    ]
+  },
+  {
+    "value": "John Irving",
+    "synonyms": [
+      "John Irving"
+    ]
+  },
+  {
+    "value": "John Keats",
+    "synonyms": [
+      "John Keats"
+    ]
+  },
+  {
+    "value": "John Milton",
+    "synonyms": [
+      "John Milton"
+    ]
+  },
+  {
+    "value": "John Steinbeck",
+    "synonyms": [
+      "John Steinbeck"
+    ]
+  },
+  {
+    "value": "Joseph Conrad",
+    "synonyms": [
+      "Joseph Conrad"
+    ]
+  },
+  {
+    "value": "Joseph Heller",
+    "synonyms": [
+      "Joseph Heller"
+    ]
+  },
+  {
+    "value": "Kurt Vonnegut",
+    "synonyms": [
+      "Kurt Vonnegut"
+    ]
+  },
+  {
+    "value": "Langston Hughes",
+    "synonyms": [
+      "Langston Hughes"
+    ]
+  },
+  {
+    "value": "Laurence Sterne",
+    "synonyms": [
+      "Laurence Sterne"
+    ]
+  },
+  {
+    "value": "Leo Tolstoy",
+    "synonyms": [
+      "Leo Tolstoy"
+    ]
+  },
+  {
+    "value": "Malcolm Lowry",
+    "synonyms": [
+      "Malcolm Lowry"
+    ]
+  },
+  {
+    "value": "Marcel Proust",
+    "synonyms": [
+      "Marcel Proust"
+    ]
+  },
+  {
+    "value": "Mark Twain",
+    "synonyms": [
+      "Mark Twain"
+    ]
+  },
+  {
+    "value": "Maya Angelou",
+    "synonyms": [
+      "Maya Angelou"
+    ]
+  },
+  {
+    "value": "Miguel de Cervantes Saavedra",
+    "synonyms": [
+      "Miguel de Cervantes Saavedra"
+    ]
+  },
+  {
+    "value": "Murasaki Shikibu",
+    "synonyms": [
+      "Murasaki Shikibu"
+    ]
+  },
+  {
+    "value": "Nathaniel Hawthorne",
+    "synonyms": [
+      "Nathaniel Hawthorne"
+    ]
+  },
+  {
+    "value": "Ovid",
+    "synonyms": [
+      "Ovid"
+    ]
+  },
+  {
+    "value": "Pablo Neruda",
+    "synonyms": [
+      "Pablo Neruda"
+    ]
+  },
+  {
+    "value": "Percy Bysshe Shelley",
+    "synonyms": [
+      "Percy Bysshe Shelley"
+    ]
+  },
+  {
+    "value": "Rabindranath Tagore",
+    "synonyms": [
+      "Rabindranath Tagore"
+    ]
+  },
+  {
+    "value": "Ralph Ellison",
+    "synonyms": [
+      "Ralph Ellison"
+    ]
+  },
+  {
+    "value": "Richard Wright",
+    "synonyms": [
+      "Richard Wright"
+    ]
+  },
+  {
+    "value": "Robert Browning",
+    "synonyms": [
+      "Robert Browning"
+    ]
+  },
+  {
+    "value": "Robert Frost",
+    "synonyms": [
+      "Robert Frost"
+    ]
+  },
+  {
+    "value": "Robert Musil",
+    "synonyms": [
+      "Robert Musil"
+    ]
+  },
+  {
+    "value": "Rudyard Kipling",
+    "synonyms": [
+      "Rudyard Kipling"
+    ]
+  },
+  {
+    "value": "Samuel Beckett",
+    "synonyms": [
+      "Samuel Beckett"
+    ]
+  },
+  {
+    "value": "Samuel Taylor Coleridge",
+    "synonyms": [
+      "Samuel Taylor Coleridge"
+    ]
+  },
+  {
+    "value": "Saul Bellow",
+    "synonyms": [
+      "Saul Bellow"
+    ]
+  },
+  {
+    "value": "Sophocles",
+    "synonyms": [
+      "Sophocles"
+    ]
+  },
+  {
+    "value": "Stendhal",
+    "synonyms": [
+      "Stendhal"
+    ]
+  },
+  {
+    "value": "Sylvia Plath",
+    "synonyms": [
+      "Sylvia Plath"
+    ]
+  },
+  {
+    "value": "T.S. Eliot",
+    "synonyms": [
+      "T.S. Eliot"
+    ]
+  },
+  {
+    "value": "Theodore Dreiser",
+    "synonyms": [
+      "Theodore Dreiser"
+    ]
+  },
+  {
+    "value": "Thomas Hardy",
+    "synonyms": [
+      "Thomas Hardy"
+    ]
+  },
+  {
+    "value": "Thomas Mann",
+    "synonyms": [
+      "Thomas Mann"
+    ]
+  },
+  {
+    "value": "Thomas Pynchon",
+    "synonyms": [
+      "Thomas Pynchon"
+    ]
+  },
+  {
+    "value": "Toni Morrison",
+    "synonyms": [
+      "Toni Morrison"
+    ]
+  },
+  {
+    "value": "Virgil",
+    "synonyms": [
+      "Virgil"
+    ]
+  },
+  {
+    "value": "Virginia Woolf",
+    "synonyms": [
+      "Virginia Woolf"
+    ]
+  },
+  {
+    "value": "Vladimir Nabokov",
+    "synonyms": [
+      "Vladimir Nabokov"
+    ]
+  },
+  {
+    "value": "Walt Whitman",
+    "synonyms": [
+      "Walt Whitman"
+    ]
+  },
+  {
+    "value": "Willa Cather",
+    "synonyms": [
+      "Willa Cather"
+    ]
+  },
+  {
+    "value": "William Blake",
+    "synonyms": [
+      "William Blake"
+    ]
+  },
+  {
+    "value": "William Butler Yeats",
+    "synonyms": [
+      "William Butler Yeats"
+    ]
+  },
+  {
+    "value": "William Carlos Williams",
+    "synonyms": [
+      "William Carlos Williams"
+    ]
+  },
+  {
+    "value": "William Faulkner",
+    "synonyms": [
+      "William Faulkner"
+    ]
+  },
+  {
+    "value": "William Golding",
+    "synonyms": [
+      "William Golding"
+    ]
+  },
+  {
+    "value": "William Shakespeare",
+    "synonyms": [
+      "William Shakespeare"
+    ]
+  },
+  {
+    "value": "William Wordsworth",
+    "synonyms": [
+      "William Wordsworth"
+    ]
+  }
+]

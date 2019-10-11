@@ -1,0 +1,56 @@
+[
+  {
+    "value": "@actor",
+    "synonyms": [
+      "@actor"
+    ]
+  },
+  {
+    "value": "@composer",
+    "synonyms": [
+      "@composer"
+    ]
+  },
+  {
+    "value": "@model",
+    "synonyms": [
+      "@model"
+    ]
+  },
+  {
+    "value": "@movie-director",
+    "synonyms": [
+      "@movie-director"
+    ]
+  },
+  {
+    "value": "@painter",
+    "synonyms": [
+      "@painter"
+    ]
+  },
+  {
+    "value": "@politician",
+    "synonyms": [
+      "@politician"
+    ]
+  },
+  {
+    "value": "@sportsman",
+    "synonyms": [
+      "@sportsman"
+    ]
+  },
+  {
+    "value": "@sys.music-artist",
+    "synonyms": [
+      "@sys.music-artist"
+    ]
+  },
+  {
+    "value": "@writer",
+    "synonyms": [
+      "@writer"
+    ]
+  }
+]

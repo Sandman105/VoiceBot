@@ -1,0 +1,141 @@
+[
+  {
+    "value": "action",
+    "synonyms": [
+      "action"
+    ]
+  },
+  {
+    "value": "animation",
+    "synonyms": [
+      "animation"
+    ]
+  },
+  {
+    "value": "anime",
+    "synonyms": [
+      "anime"
+    ]
+  },
+  {
+    "value": "black comedy",
+    "synonyms": [
+      "black comedies",
+      "black comedy"
+    ]
+  },
+  {
+    "value": "cartoons",
+    "synonyms": [
+      "cartoons"
+    ]
+  },
+  {
+    "value": "comedy",
+    "synonyms": [
+      "comedies",
+      "comedy"
+    ]
+  },
+  {
+    "value": "detective",
+    "synonyms": [
+      "detective"
+    ]
+  },
+  {
+    "value": "documentary",
+    "synonyms": [
+      "documentary"
+    ]
+  },
+  {
+    "value": "drama",
+    "synonyms": [
+      "drama"
+    ]
+  },
+  {
+    "value": "family",
+    "synonyms": [
+      "family"
+    ]
+  },
+  {
+    "value": "fantasy",
+    "synonyms": [
+      "fantasy"
+    ]
+  },
+  {
+    "value": "fiction",
+    "synonyms": [
+      "fiction"
+    ]
+  },
+  {
+    "value": "film noir",
+    "synonyms": [
+      "film noir"
+    ]
+  },
+  {
+    "value": "horror",
+    "synonyms": [
+      "horror"
+    ]
+  },
+  {
+    "value": "love",
+    "synonyms": [
+      "love"
+    ]
+  },
+  {
+    "value": "melodrama",
+    "synonyms": [
+      "melodrama",
+      "melodramas"
+    ]
+  },
+  {
+    "value": "prank",
+    "synonyms": [
+      "prank"
+    ]
+  },
+  {
+    "value": "romantic",
+    "synonyms": [
+      "romantic"
+    ]
+  },
+  {
+    "value": "romantic comedy",
+    "synonyms": [
+      "romantic comedies",
+      "romantic comedy"
+    ]
+  },
+  {
+    "value": "short movie",
+    "synonyms": [
+      "short movie",
+      "short movies"
+    ]
+  },
+  {
+    "value": "thriller",
+    "synonyms": [
+      "thriller",
+      "thrillers"
+    ]
+  },
+  {
+    "value": "western",
+    "synonyms": [
+      "western",
+      "westerns"
+    ]
+  }
+]

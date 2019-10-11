@@ -1,0 +1,616 @@
+[
+  {
+    "id": "4876175a-934a-4d01-af70-f6a3afc9f9ac",
+    "data": [
+      {
+        "text": "repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc3e50dd-abb4-40d5-ab29-97a1d95d6378",
+    "data": [
+      {
+        "text": "play",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1690abde-0a9d-47b5-ab6f-4957c5b060bf",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you repeat ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d6f02d-56db-4ff9-b47d-8b2a4b1380e5",
+    "data": [
+      {
+        "text": "turn on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat mode for ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b20e9a-535d-43b3-934c-742d0661ced2",
+    "data": [
+      {
+        "text": "repeat ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "once",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b2f5861-f6ac-4762-8bc9-52994beae8c5",
+    "data": [
+      {
+        "text": "turn on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat mode for this video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "849a2952-25d0-479f-98b0-a92d0e6571cf",
+    "data": [
+      {
+        "text": "let\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat this video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83dee65e-821c-493d-933c-7b62940ccbfb",
+    "data": [
+      {
+        "text": "repeat the video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39f38323-b4e3-42f2-9cd6-ca96ad018a24",
+    "data": [
+      {
+        "text": "put this ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b7cf1b2-5573-4f20-ae79-cccdad127073",
+    "data": [
+      {
+        "text": "put ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f91bed86-011b-483e-bfb7-722e6d71ee3a",
+    "data": [
+      {
+        "text": "repeat this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07fe7577-c66d-43cf-a586-bb9c79ae3a7c",
+    "data": [
+      {
+        "text": "play",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " it ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39646361-393d-472d-b54e-06c9f47d4618",
+    "data": [
+      {
+        "text": "put this movie ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba195ee2-29e2-4b40-b5c0-cf43022f09e4",
+    "data": [
+      {
+        "text": "play this",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " video ",
+        "userDefined": false
+      },
+      {
+        "text": "once",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7ad37eb-571c-4ec6-a519-fffb2211ee8c",
+    "data": [
+      {
+        "text": "repeat ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26986f7c-058f-4a48-9e4d-833b09f7c6bf",
+    "data": [
+      {
+        "text": "play",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " this movie from the beginning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "063cee77-29c7-4ae1-9c7d-7a0ba9174abc",
+    "data": [
+      {
+        "text": "can you repeat this",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94a54b27-053c-4e41-b554-47ca0f5c8501",
+    "data": [
+      {
+        "text": "repeat it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60e79432-84fc-4a72-ad0c-afff14af1b93",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " listen ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " this video once again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05e8542b-731a-44cc-afbd-e74514af19df",
+    "data": [
+      {
+        "text": "repeat this video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4185abc-15c1-4289-a816-2b95b75e77cc",
+    "data": [
+      {
+        "text": "play this video again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7eb1bff-1255-452e-b025-407ee4be9aec",
+    "data": [
+      {
+        "text": "repeat please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bdb12ab-4190-4c86-a989-99d510744f6d",
+    "data": [
+      {
+        "text": "play",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " again from the ",
+        "userDefined": false
+      },
+      {
+        "text": "very",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beginning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4610567e-8d51-4b9d-9852-ba96aaaa5a66",
+    "data": [
+      {
+        "text": "repeat this video ",
+        "userDefined": false
+      },
+      {
+        "text": "once",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fe8664c-c97c-4e94-b85a-e5297ef60f02",
+    "data": [
+      {
+        "text": "turn on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " repeat for this video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "021439ff-0532-4751-aa7b-ff7d965b8fd6",
+    "data": [
+      {
+        "text": "repeat ",
+        "userDefined": false
+      },
+      {
+        "text": "mode for this",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0584c36f-85f6-477e-9638-e3343fffae52",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " more time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7760c863-611c-4eeb-bfd7-47965fdc169f",
+    "data": [
+      {
+        "text": "could",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you repeat them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cfec92e-d53e-4e93-ad14-1413e8893d77",
+    "data": [
+      {
+        "text": "repeat this movie one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

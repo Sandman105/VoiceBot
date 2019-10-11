@@ -1,0 +1,107 @@
+{
+  "id": "258b2067-c996-43ec-a352-3be265194983",
+  "name": "video.play - context:play-video",
+  "auto": true,
+  "contexts": [
+    "play-video"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#play-video.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae371119-df1f-4f36-a8b8-b93e47c53bf2",
+          "required": false,
+          "dataType": "@movie",
+          "name": "movie",
+          "value": "$movie",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "317eb2c1-4c33-41c8-8e52-24c6c83b5c8b",
+          "required": false,
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b0ca2f59-0af3-4cb4-9e85-c44dbc30fe24",
+          "required": false,
+          "dataType": "@video-service",
+          "name": "service",
+          "value": "$service",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "07b9def4-bd9c-4030-8327-b13922d3e797",
+          "required": false,
+          "dataType": "@movie-genre",
+          "name": "movie-genre",
+          "value": "$movie-genre",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f625e3e6-106b-4434-a2ae-955a480fca1a",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "name": "music-genre",
+          "value": "$music-genre",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c9aa0ca4-d9e6-4c3c-b865-2fbb33527933",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "video",
+          "value": "$video",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

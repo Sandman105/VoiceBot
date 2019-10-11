@@ -1,0 +1,615 @@
+[
+  {
+    "value": "12 Angry Men",
+    "synonyms": [
+      "12 Angry Men"
+    ]
+  },
+  {
+    "value": "2001: A Space Odyssey",
+    "synonyms": [
+      "2001: A Space Odyssey"
+    ]
+  },
+  {
+    "value": "A Clockwork Orange",
+    "synonyms": [
+      "A Clockwork Orange"
+    ]
+  },
+  {
+    "value": "Alien",
+    "synonyms": [
+      "Alien"
+    ]
+  },
+  {
+    "value": "Aliens",
+    "synonyms": [
+      "Aliens"
+    ]
+  },
+  {
+    "value": "Amadeus",
+    "synonyms": [
+      "Amadeus"
+    ]
+  },
+  {
+    "value": "American Beauty",
+    "synonyms": [
+      "American Beauty"
+    ]
+  },
+  {
+    "value": "American History X",
+    "synonyms": [
+      "American History X"
+    ]
+  },
+  {
+    "value": "Amélie",
+    "synonyms": [
+      "Amélie"
+    ]
+  },
+  {
+    "value": "Apocalypse Now",
+    "synonyms": [
+      "Apocalypse Now"
+    ]
+  },
+  {
+    "value": "Back to the Future",
+    "synonyms": [
+      "Back to the Future"
+    ]
+  },
+  {
+    "value": "Bicycle Thieves",
+    "synonyms": [
+      "Bicycle Thieves"
+    ]
+  },
+  {
+    "value": "Braveheart",
+    "synonyms": [
+      "Braveheart"
+    ]
+  },
+  {
+    "value": "Casablanca",
+    "synonyms": [
+      "Casablanca"
+    ]
+  },
+  {
+    "value": "Cinema Paradiso",
+    "synonyms": [
+      "Cinema Paradiso"
+    ]
+  },
+  {
+    "value": "Citizen Kane",
+    "synonyms": [
+      "Citizen Kane"
+    ]
+  },
+  {
+    "value": "City Lights",
+    "synonyms": [
+      "City Lights"
+    ]
+  },
+  {
+    "value": "City of God",
+    "synonyms": [
+      "City of God"
+    ]
+  },
+  {
+    "value": "Das Boot",
+    "synonyms": [
+      "Das Boot"
+    ]
+  },
+  {
+    "value": "Django Unchained",
+    "synonyms": [
+      "Django Unchained"
+    ]
+  },
+  {
+    "value": "Double Indemnity",
+    "synonyms": [
+      "Double Indemnity"
+    ]
+  },
+  {
+    "value": "Eternal Sunshine of the Spotless Mind",
+    "synonyms": [
+      "Eternal Sunshine of the Spotless Mind"
+    ]
+  },
+  {
+    "value": "Fight Club",
+    "synonyms": [
+      "Fight Club"
+    ]
+  },
+  {
+    "value": "Forrest Gump",
+    "synonyms": [
+      "Forrest Gump"
+    ]
+  },
+  {
+    "value": "Full Metal Jacket",
+    "synonyms": [
+      "Full Metal Jacket"
+    ]
+  },
+  {
+    "value": "Gladiator",
+    "synonyms": [
+      "Gladiator"
+    ]
+  },
+  {
+    "value": "Goodfellas",
+    "synonyms": [
+      "Goodfellas"
+    ]
+  },
+  {
+    "value": "Grave of the Fireflies",
+    "synonyms": [
+      "Grave of the Fireflies"
+    ]
+  },
+  {
+    "value": "Harry Potter",
+    "synonyms": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "value": "Inception",
+    "synonyms": [
+      "Inception"
+    ]
+  },
+  {
+    "value": "Inglourious Basterds",
+    "synonyms": [
+      "Inglourious Basterds"
+    ]
+  },
+  {
+    "value": "Interstellar",
+    "synonyms": [
+      "Interstellar"
+    ]
+  },
+  {
+    "value": "It\u0027s a Wonderful Life",
+    "synonyms": [
+      "It\u0027s a Wonderful Life"
+    ]
+  },
+  {
+    "value": "La La Land",
+    "synonyms": [
+      "La La Land"
+    ]
+  },
+  {
+    "value": "Lawrence of Arabia",
+    "synonyms": [
+      "Lawrence of Arabia"
+    ]
+  },
+  {
+    "value": "Life Is Beautiful",
+    "synonyms": [
+      "Life Is Beautiful"
+    ]
+  },
+  {
+    "value": "Léon: The Professional",
+    "synonyms": [
+      "Léon: The Professional"
+    ]
+  },
+  {
+    "value": "M",
+    "synonyms": [
+      "M"
+    ]
+  },
+  {
+    "value": "Memento",
+    "synonyms": [
+      "Memento"
+    ]
+  },
+  {
+    "value": "Modern Times",
+    "synonyms": [
+      "Modern Times"
+    ]
+  },
+  {
+    "value": "Monty Python and the Holy Grail",
+    "synonyms": [
+      "Monty Python and the Holy Grail"
+    ]
+  },
+  {
+    "value": "North by Northwest",
+    "synonyms": [
+      "North by Northwest"
+    ]
+  },
+  {
+    "value": "Once Upon a Time in the West",
+    "synonyms": [
+      "Once Upon a Time in the West"
+    ]
+  },
+  {
+    "value": "One Flew Over the Cuckoo\u0027s Nest",
+    "synonyms": [
+      "One Flew Over the Cuckoo\u0027s Nest"
+    ]
+  },
+  {
+    "value": "Paths of Glory",
+    "synonyms": [
+      "Paths of Glory"
+    ]
+  },
+  {
+    "value": "Princess Mononoke",
+    "synonyms": [
+      "Princess Mononoke"
+    ]
+  },
+  {
+    "value": "Psycho",
+    "synonyms": [
+      "Psycho"
+    ]
+  },
+  {
+    "value": "Pulp Fiction",
+    "synonyms": [
+      "Pulp Fiction"
+    ]
+  },
+  {
+    "value": "Raiders of the Lost Ark",
+    "synonyms": [
+      "Raiders of the Lost Ark"
+    ]
+  },
+  {
+    "value": "Rear Window",
+    "synonyms": [
+      "Rear Window"
+    ]
+  },
+  {
+    "value": "Requiem for a Dream",
+    "synonyms": [
+      "Requiem for a Dream"
+    ]
+  },
+  {
+    "value": "Reservoir Dogs",
+    "synonyms": [
+      "Reservoir Dogs"
+    ]
+  },
+  {
+    "value": "Saving Private Ryan",
+    "synonyms": [
+      "Saving Private Ryan"
+    ]
+  },
+  {
+    "value": "Schindler\u0027s List",
+    "synonyms": [
+      "Schindler\u0027s List"
+    ]
+  },
+  {
+    "value": "Se7en",
+    "synonyms": [
+      "Se7en"
+    ]
+  },
+  {
+    "value": "Seven Samurai",
+    "synonyms": [
+      "Seven Samurai"
+    ]
+  },
+  {
+    "value": "Singin\u0027 in the Rain",
+    "synonyms": [
+      "Singin\u0027 in the Rain"
+    ]
+  },
+  {
+    "value": "Snatch",
+    "synonyms": [
+      "Snatch"
+    ]
+  },
+  {
+    "value": "Spirited Away",
+    "synonyms": [
+      "Spirited Away"
+    ]
+  },
+  {
+    "value": "Star Wars: Episode IV - A New Hope",
+    "synonyms": [
+      "Star Wars: Episode IV - A New Hope"
+    ]
+  },
+  {
+    "value": "Star Wars: Episode V - The Empire Strikes Bac",
+    "synonyms": [
+      "Star Wars: Episode V - The Empire Strikes Bac"
+    ]
+  },
+  {
+    "value": "Star Wars: Episode VI - Return of the Jed",
+    "synonyms": [
+      "Star Wars: Episode VI - Return of the Jed"
+    ]
+  },
+  {
+    "value": "Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "synonyms": [
+      "Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    ]
+  },
+  {
+    "value": "Sunset Boulevard",
+    "synonyms": [
+      "Sunset Boulevard"
+    ]
+  },
+  {
+    "value": "Taxi Driver",
+    "synonyms": [
+      "Taxi Driver"
+    ]
+  },
+  {
+    "value": "Terminator 2: Judgment Day",
+    "synonyms": [
+      "Terminator 2: Judgment Day"
+    ]
+  },
+  {
+    "value": "The Avengers",
+    "synonyms": [
+      "Avengers",
+      "The Avengers"
+    ]
+  },
+  {
+    "value": "The Dark Knight",
+    "synonyms": [
+      "The Dark Knight"
+    ]
+  },
+  {
+    "value": "The Dark Knight Rises",
+    "synonyms": [
+      "The Dark Knight Rises"
+    ]
+  },
+  {
+    "value": "The Departed",
+    "synonyms": [
+      "The Departed"
+    ]
+  },
+  {
+    "value": "The Godfather",
+    "synonyms": [
+      "The Godfather"
+    ]
+  },
+  {
+    "value": "The Godfather: Part II",
+    "synonyms": [
+      "The Godfather: Part II"
+    ]
+  },
+  {
+    "value": "The Good, the Bad and the Ugly",
+    "synonyms": [
+      "The Good, the Bad and the Ugly"
+    ]
+  },
+  {
+    "value": "The Great Dictator",
+    "synonyms": [
+      "The Great Dictator"
+    ]
+  },
+  {
+    "value": "The Green Mile",
+    "synonyms": [
+      "The Green Mile"
+    ]
+  },
+  {
+    "value": "The Intouchables",
+    "synonyms": [
+      "The Intouchables"
+    ]
+  },
+  {
+    "value": "The Kid",
+    "synonyms": [
+      "The Kid"
+    ]
+  },
+  {
+    "value": "The Lion King",
+    "synonyms": [
+      "The Lion King"
+    ]
+  },
+  {
+    "value": "The Lives of Others",
+    "synonyms": [
+      "The Lives of Others"
+    ]
+  },
+  {
+    "value": "The Lord of the Rings: The Fellowship of the Ring",
+    "synonyms": [
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ]
+  },
+  {
+    "value": "The Lord of the Rings: The Return of the Kin",
+    "synonyms": [
+      "The Lord of the Rings: The Return of the Kin"
+    ]
+  },
+  {
+    "value": "The Lord of the Rings: The Two Towers",
+    "synonyms": [
+      "The Lord of the Rings: The Two Towers"
+    ]
+  },
+  {
+    "value": "The Matrix",
+    "synonyms": [
+      "The Matrix"
+    ]
+  },
+  {
+    "value": "The Pianist",
+    "synonyms": [
+      "The Pianist"
+    ]
+  },
+  {
+    "value": "The Prestige",
+    "synonyms": [
+      "The Prestige"
+    ]
+  },
+  {
+    "value": "The Shawshank Redemption",
+    "synonyms": [
+      "The Shawshank Redemption"
+    ]
+  },
+  {
+    "value": "The Shining",
+    "synonyms": [
+      "The Shining"
+    ]
+  },
+  {
+    "value": "The Silence of the Lambs",
+    "synonyms": [
+      "The Silence of the Lambs"
+    ]
+  },
+  {
+    "value": "The Sting",
+    "synonyms": [
+      "The Sting"
+    ]
+  },
+  {
+    "value": "The Usual Suspects",
+    "synonyms": [
+      "The Usual Suspects"
+    ]
+  },
+  {
+    "value": "To Kill a Mockingbird",
+    "synonyms": [
+      "To Kill a Mockingbird"
+    ]
+  },
+  {
+    "value": "Toy Story",
+    "synonyms": [
+      "Toy Story"
+    ]
+  },
+  {
+    "value": "Toy Story 3",
+    "synonyms": [
+      "Toy Story 3"
+    ]
+  },
+  {
+    "value": "Vertigo",
+    "synonyms": [
+      "Vertigo"
+    ]
+  },
+  {
+    "value": "WALL·E",
+    "synonyms": [
+      "WALL·E"
+    ]
+  },
+  {
+    "value": "Whiplash",
+    "synonyms": [
+      "Whiplash"
+    ]
+  },
+  {
+    "value": "Witness for the Prosecution",
+    "synonyms": [
+      "Witness for the Prosecution"
+    ]
+  },
+  {
+    "value": "Дангал",
+    "synonyms": [
+      "Дангал"
+    ]
+  },
+  {
+    "value": "Звёздочки на земле",
+    "synonyms": [
+      "Звёздочки на земле"
+    ]
+  },
+  {
+    "value": "Мой отец и мой сын",
+    "synonyms": [
+      "Мой отец и мой сын"
+    ]
+  },
+  {
+    "value": "Однажды в Америке",
+    "synonyms": [
+      "Однажды в Америке"
+    ]
+  },
+  {
+    "value": "Олдбой",
+    "synonyms": [
+      "Олдбой"
+    ]
+  }
+]

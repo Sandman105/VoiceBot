@@ -1,0 +1,164 @@
+{
+  "id": "966c44f6-d05a-4782-8ac2-e61f2acf17eb",
+  "name": "video.play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "video.play",
+      "affectedContexts": [
+        {
+          "name": "play-video",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "video-player-control",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ad727ebc-4950-459a-8bb4-176c92c89c12",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "video",
+          "value": "$video",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "14127bb5-b193-468a-b293-99de815446d8",
+          "required": false,
+          "dataType": "@movie",
+          "name": "movie",
+          "value": "$movie",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "183a3b7b-e899-4015-9c9f-c90aab33d839",
+          "required": false,
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "c453c4cf-547b-41a2-8baa-f879cbb86c6d",
+          "required": false,
+          "dataType": "@song",
+          "name": "song",
+          "value": "$song",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9e40354d-7b83-43b9-88a4-4995e10a9cd0",
+          "required": false,
+          "dataType": "@movie-genre",
+          "name": "movie-genre",
+          "value": "$movie-genre",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "94115a8b-da5c-42f8-8abe-6f66f58f91f4",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "name": "music-genre",
+          "value": "$music-genre",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "332a398d-0e33-4554-b81e-6b1f8e9fe406",
+          "required": false,
+          "dataType": "@video-service",
+          "name": "service",
+          "value": "$service",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e35a26ef-b115-4d05-8e69-f10142b66502",
+          "required": false,
+          "dataType": "@trailer",
+          "name": "trailer",
+          "value": "$trailer",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1ad81e02-2f3b-4c1f-91bf-94764a90b2ea",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "year",
+          "value": "$year",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b5d74360-30ff-4c96-a997-4e300f2304b4",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "0215f4a0-41a1-4a47-b2c6-d3691d8830c6",
+  "name": "writer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

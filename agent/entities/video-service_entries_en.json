@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Acorn.tv",
+    "synonyms": [
+      "Acorn.tv"
+    ]
+  },
+  {
+    "value": "Crunchyroll.com",
+    "synonyms": [
+      "Crunchyroll.com"
+    ]
+  },
+  {
+    "value": "Fandor",
+    "synonyms": [
+      "Fandor"
+    ]
+  },
+  {
+    "value": "IMDb",
+    "synonyms": [
+      "IMDb"
+    ]
+  },
+  {
+    "value": "Mubi.com",
+    "synonyms": [
+      "Mubi.com"
+    ]
+  },
+  {
+    "value": "My library",
+    "synonyms": [
+      "gallery",
+      "library",
+      "my gallery",
+      "my library"
+    ]
+  },
+  {
+    "value": "Netflix",
+    "synonyms": [
+      "Netflix"
+    ]
+  },
+  {
+    "value": "Tubitv.com",
+    "synonyms": [
+      "Tubitv.com"
+    ]
+  },
+  {
+    "value": "Vimeo",
+    "synonyms": [
+      "Vimeo"
+    ]
+  },
+  {
+    "value": "YouTube",
+    "synonyms": [
+      "YT",
+      "You Tube",
+      "YouTube"
+    ]
+  }
+]

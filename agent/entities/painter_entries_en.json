@@ -1,0 +1,602 @@
+[
+  {
+    "value": "Adam Elsheimer",
+    "synonyms": [
+      "Adam Elsheimer"
+    ]
+  },
+  {
+    "value": "Agnolo Bronzino",
+    "synonyms": [
+      "Agnolo Bronzino"
+    ]
+  },
+  {
+    "value": "Agostino Carracci",
+    "synonyms": [
+      "Agostino Carracci"
+    ]
+  },
+  {
+    "value": "Albrecht Altdorfer",
+    "synonyms": [
+      "Albrecht Altdorfer"
+    ]
+  },
+  {
+    "value": "Albrecht Durer",
+    "synonyms": [
+      "Albrecht Durer"
+    ]
+  },
+  {
+    "value": "Alessandro Botticelli",
+    "synonyms": [
+      "Alessandro Botticelli"
+    ]
+  },
+  {
+    "value": "Ambrogio Lorenzetti",
+    "synonyms": [
+      "Ambrogio Lorenzetti"
+    ]
+  },
+  {
+    "value": "Andrea Mantegna",
+    "synonyms": [
+      "Andrea Mantegna"
+    ]
+  },
+  {
+    "value": "Andrea Palladio",
+    "synonyms": [
+      "Andrea Palladio"
+    ]
+  },
+  {
+    "value": "Andrea del Castagno",
+    "synonyms": [
+      "Andrea del Castagno"
+    ]
+  },
+  {
+    "value": "Andrea del Sarto",
+    "synonyms": [
+      "Andrea del Sarto"
+    ]
+  },
+  {
+    "value": "Andrei Rublev",
+    "synonyms": [
+      "Andrei Rublev"
+    ]
+  },
+  {
+    "value": "Annibale Carracci",
+    "synonyms": [
+      "Annibale Carracci"
+    ]
+  },
+  {
+    "value": "Antonello da Messina",
+    "synonyms": [
+      "Antonello da Messina"
+    ]
+  },
+  {
+    "value": "Battistello Caracciolo",
+    "synonyms": [
+      "Battistello Caracciolo"
+    ]
+  },
+  {
+    "value": "Caravaggio",
+    "synonyms": [
+      "Caravaggio"
+    ]
+  },
+  {
+    "value": "Cimabue",
+    "synonyms": [
+      "Cimabue"
+    ]
+  },
+  {
+    "value": "Correggio",
+    "synonyms": [
+      "Correggio"
+    ]
+  },
+  {
+    "value": "Dieric",
+    "synonyms": [
+      "Dieric"
+    ]
+  },
+  {
+    "value": "Dionysius",
+    "synonyms": [
+      "Dionysius"
+    ]
+  },
+  {
+    "value": "Domenichino",
+    "synonyms": [
+      "Domenichino"
+    ]
+  },
+  {
+    "value": "Domenico Ghirlandaio",
+    "synonyms": [
+      "Domenico Ghirlandaio"
+    ]
+  },
+  {
+    "value": "Domenico Veneziano",
+    "synonyms": [
+      "Domenico Veneziano"
+    ]
+  },
+  {
+    "value": "Donatello",
+    "synonyms": [
+      "Donatello"
+    ]
+  },
+  {
+    "value": "Donato Bramante",
+    "synonyms": [
+      "Donato Bramante"
+    ]
+  },
+  {
+    "value": "Duccio di Buoninsegna",
+    "synonyms": [
+      "Duccio di Buoninsegna"
+    ]
+  },
+  {
+    "value": "El Greco",
+    "synonyms": [
+      "El Greco"
+    ]
+  },
+  {
+    "value": "Enguerrand de Charenton",
+    "synonyms": [
+      "Enguerrand de Charenton"
+    ]
+  },
+  {
+    "value": "Filippino Lippi",
+    "synonyms": [
+      "Filippino Lippi"
+    ]
+  },
+  {
+    "value": "Filippo Brunelleschi",
+    "synonyms": [
+      "Filippo Brunelleschi"
+    ]
+  },
+  {
+    "value": "Fra Angelico",
+    "synonyms": [
+      "Fra Angelico"
+    ]
+  },
+  {
+    "value": "Fra Bartolommeo",
+    "synonyms": [
+      "Fra Bartolommeo"
+    ]
+  },
+  {
+    "value": "Fra Filippo Lippi",
+    "synonyms": [
+      "Fra Filippo Lippi"
+    ]
+  },
+  {
+    "value": "Francesco Squarcione",
+    "synonyms": [
+      "Francesco Squarcione"
+    ]
+  },
+  {
+    "value": "Francisco Ribalta",
+    "synonyms": [
+      "Francisco Ribalta"
+    ]
+  },
+  {
+    "value": "Gentile Bellini",
+    "synonyms": [
+      "Gentile Bellini"
+    ]
+  },
+  {
+    "value": "Gentile da Fabriano",
+    "synonyms": [
+      "Gentile da Fabriano"
+    ]
+  },
+  {
+    "value": "Giambologna",
+    "synonyms": [
+      "Giambologna"
+    ]
+  },
+  {
+    "value": "Giorgio Vasari",
+    "synonyms": [
+      "Giorgio Vasari"
+    ]
+  },
+  {
+    "value": "Giorgione",
+    "synonyms": [
+      "Giorgione"
+    ]
+  },
+  {
+    "value": "Giotto di Bondone",
+    "synonyms": [
+      "Giotto di Bondone"
+    ]
+  },
+  {
+    "value": "Giovanni Bellini",
+    "synonyms": [
+      "Giovanni Bellini"
+    ]
+  },
+  {
+    "value": "Giovanni Lanfranco",
+    "synonyms": [
+      "Giovanni Lanfranco"
+    ]
+  },
+  {
+    "value": "Giovanni di Paolo",
+    "synonyms": [
+      "Giovanni di Paolo"
+    ]
+  },
+  {
+    "value": "Giulio Romano",
+    "synonyms": [
+      "Giulio Romano"
+    ]
+  },
+  {
+    "value": "Giuseppe Arcimboldo",
+    "synonyms": [
+      "Giuseppe Arcimboldo"
+    ]
+  },
+  {
+    "value": "Guido Reni",
+    "synonyms": [
+      "Guido Reni"
+    ]
+  },
+  {
+    "value": "Hans Baldung Grien",
+    "synonyms": [
+      "Hans Baldung Grien"
+    ]
+  },
+  {
+    "value": "Hans Holbein The Younger",
+    "synonyms": [
+      "Hans Holbein The Younger"
+    ]
+  },
+  {
+    "value": "Hans Memling",
+    "synonyms": [
+      "Hans Memling"
+    ]
+  },
+  {
+    "value": "Hieronymus Bosch",
+    "synonyms": [
+      "Hieronymus Bosch"
+    ]
+  },
+  {
+    "value": "Hugo Van Der Goes",
+    "synonyms": [
+      "Hugo Van Der Goes"
+    ]
+  },
+  {
+    "value": "Jacopo Bassano",
+    "synonyms": [
+      "Jacopo Bassano"
+    ]
+  },
+  {
+    "value": "Jacopo Pontormo",
+    "synonyms": [
+      "Jacopo Pontormo"
+    ]
+  },
+  {
+    "value": "Jacopo Tintoretto",
+    "synonyms": [
+      "Jacopo Tintoretto"
+    ]
+  },
+  {
+    "value": "Jacquemart de Hesdin",
+    "synonyms": [
+      "Jacquemart de Hesdin"
+    ]
+  },
+  {
+    "value": "Jan van Eyck",
+    "synonyms": [
+      "Jan van Eyck"
+    ]
+  },
+  {
+    "value": "Jean Fouquet",
+    "synonyms": [
+      "Jean Fouquet"
+    ]
+  },
+  {
+    "value": "Jean Pucelle",
+    "synonyms": [
+      "Jean Pucelle"
+    ]
+  },
+  {
+    "value": "Joachim Patenier",
+    "synonyms": [
+      "Joachim Patenier"
+    ]
+  },
+  {
+    "value": "Leon Battista Alberti",
+    "synonyms": [
+      "Leon Battista Alberti"
+    ]
+  },
+  {
+    "value": "Leonardo da Vinci",
+    "synonyms": [
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "value": "Lorenzo Ghiberti",
+    "synonyms": [
+      "Lorenzo Ghiberti"
+    ]
+  },
+  {
+    "value": "Lorenzo Lotto",
+    "synonyms": [
+      "Lorenzo Lotto"
+    ]
+  },
+  {
+    "value": "Lorenzo Monaco",
+    "synonyms": [
+      "Lorenzo Monaco"
+    ]
+  },
+  {
+    "value": "Luca Signorelli",
+    "synonyms": [
+      "Luca Signorelli"
+    ]
+  },
+  {
+    "value": "Lucas Cranach the Elder",
+    "synonyms": [
+      "Lucas Cranach the Elder"
+    ]
+  },
+  {
+    "value": "Ludovico Carracci",
+    "synonyms": [
+      "Ludovico Carracci"
+    ]
+  },
+  {
+    "value": "Martin Schongauer",
+    "synonyms": [
+      "Martin Schongauer"
+    ]
+  },
+  {
+    "value": "Masolino",
+    "synonyms": [
+      "Masolino"
+    ]
+  },
+  {
+    "value": "Matthias Grunewald",
+    "synonyms": [
+      "Matthias Grunewald"
+    ]
+  },
+  {
+    "value": "Melchior Broederlam",
+    "synonyms": [
+      "Melchior Broederlam"
+    ]
+  },
+  {
+    "value": "Melozzo da Forli",
+    "synonyms": [
+      "Melozzo da Forli"
+    ]
+  },
+  {
+    "value": "Michael Pacher",
+    "synonyms": [
+      "Michael Pacher"
+    ]
+  },
+  {
+    "value": "Michelangelo Buonarroti",
+    "synonyms": [
+      "Michelangelo Buonarroti"
+    ]
+  },
+  {
+    "value": "Nicholas Hilliard",
+    "synonyms": [
+      "Nicholas Hilliard"
+    ]
+  },
+  {
+    "value": "Paolo Uccello",
+    "synonyms": [
+      "Paolo Uccello"
+    ]
+  },
+  {
+    "value": "Paolo Veronese",
+    "synonyms": [
+      "Paolo Veronese"
+    ]
+  },
+  {
+    "value": "Parmigianino",
+    "synonyms": [
+      "Parmigianino"
+    ]
+  },
+  {
+    "value": "Perugino",
+    "synonyms": [
+      "Perugino"
+    ]
+  },
+  {
+    "value": "Peter Paul Rubens",
+    "synonyms": [
+      "Peter Paul Rubens"
+    ]
+  },
+  {
+    "value": "Petrus Christus",
+    "synonyms": [
+      "Petrus Christus"
+    ]
+  },
+  {
+    "value": "Piero della Francesca",
+    "synonyms": [
+      "Piero della Francesca"
+    ]
+  },
+  {
+    "value": "Piero di Cosimo",
+    "synonyms": [
+      "Piero di Cosimo"
+    ]
+  },
+  {
+    "value": "Pieter Bruegel the Elder",
+    "synonyms": [
+      "Pieter Bruegel the Elder"
+    ]
+  },
+  {
+    "value": "Pietro Lorenzetti",
+    "synonyms": [
+      "Pietro Lorenzetti"
+    ]
+  },
+  {
+    "value": "Pisanello",
+    "synonyms": [
+      "Pisanello"
+    ]
+  },
+  {
+    "value": "Quentin Massys",
+    "synonyms": [
+      "Quentin Massys"
+    ]
+  },
+  {
+    "value": "Raphael",
+    "synonyms": [
+      "Raphael"
+    ]
+  },
+  {
+    "value": "Robert Campin",
+    "synonyms": [
+      "Robert Campin"
+    ]
+  },
+  {
+    "value": "Roger Van der Weyden",
+    "synonyms": [
+      "Roger Van der Weyden"
+    ]
+  },
+  {
+    "value": "Rosso Fiorentino",
+    "synonyms": [
+      "Rosso Fiorentino"
+    ]
+  },
+  {
+    "value": "Sassetta",
+    "synonyms": [
+      "Sassetta"
+    ]
+  },
+  {
+    "value": "Sebastiano del Piombo",
+    "synonyms": [
+      "Sebastiano del Piombo"
+    ]
+  },
+  {
+    "value": "Simone Martini",
+    "synonyms": [
+      "Simone Martini"
+    ]
+  },
+  {
+    "value": "Stefan Lochner",
+    "synonyms": [
+      "Stefan Lochner"
+    ]
+  },
+  {
+    "value": "Theophanes the Greek",
+    "synonyms": [
+      "Theophanes the Greek"
+    ]
+  },
+  {
+    "value": "Titian",
+    "synonyms": [
+      "Titian"
+    ]
+  },
+  {
+    "value": "Tommaso Masaccio",
+    "synonyms": [
+      "Tommaso Masaccio"
+    ]
+  },
+  {
+    "value": "Vittore Carpaccio",
+    "synonyms": [
+      "Vittore Carpaccio"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "ce046894-9b60-4279-ad1d-9a5fd8c4500c",
+  "name": "actor",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "1dd29d3f-9ec2-4dea-b96d-3d57c6dcef81",
+  "name": "painter",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

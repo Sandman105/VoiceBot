@@ -1,0 +1,9 @@
+{
+  "id": "be0c9964-7a3d-4688-a22a-f56c0632399c",
+  "name": "video-service",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
