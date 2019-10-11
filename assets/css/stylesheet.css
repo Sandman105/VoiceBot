@@ -1,0 +1,181 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  background: slategray;
+  margin: 0;
+  padding: 0;
+}
+
+.silly {
+  font-family: 'Amatic SC', sans-serif;
+}
+
+.column {
+  float: left;
+  text-align: center;
+}
+
+.row {
+  float: left;
+  align-content: center;
+}
+
+a,
+img,
+div:focus,
+div:active,
+button,
+button:active, 
+button:focus, 
+input:active, 
+input:focus,
+link,
+link:active,
+link:focus {
+  border: none;
+  outline: none;
+  background: none;
+  text-decoration: none;
+}
+
+img, .clickable {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#menuOptions {
+  display: none;
+  font-size: 1em;
+  transition: 0.4s forward;
+}
+
+#chatInput {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: #577284;
+  text-align: center;
+  border: none;
+  background: none;
+  width: 100%;
+}
+
+#chatArea {
+  color: #577284;
+  font-size: 0.8em;
+  z-index: 1500;
+}
+
+.noDisplay {
+    display: none;
+}
+
+.big {
+  font-size: 1.4em;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #dddddd;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+.topnav a {
+  text-decoration: none;
+  font-size: 24px;
+  display: block;
+}
+
+.active {
+  background-color: #577284;
+  color: white;
+}
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+}
+
+.overlay a {
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+  
+.rps {
+  opacity: 0.7;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  filter: invert(44%) sepia(38%) saturate(305%) hue-rotate(161deg) brightness(88%) contrast(89%);
+}
+
+#rpsButtons {
+  background: #ddd;
+  position: sticky; 
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+footer {
+  position: sticky;
+  filter: invert(100%);
+  opacity: 0.3;
+}
+
+@media screen and (max-width: 500px) {
+  .header {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
