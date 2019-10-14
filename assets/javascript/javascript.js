@@ -6,6 +6,7 @@ function searchYouTube() {
         data: { id: $(this).data("id") },
         success: function (response) {
             console.log(response);
+            responseYouTube(response);
         },
         error: function (jqXhr, status, error) {
             alert(error);
@@ -13,7 +14,7 @@ function searchYouTube() {
     });
 }
 
-function responseYouTube() {
+function responseYouTube(response) {
 //takes ajax call and embeds video into page
     var results = response.items
     for (var i = 0; i < results.length; i++) {
