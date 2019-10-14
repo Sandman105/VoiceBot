@@ -1,5 +1,6 @@
 * {
   font-family: 'Quicksand', sans-serif;
+  text-align: center;
 }
 
 h2 {
@@ -179,8 +180,8 @@ a {
 footer {
   /* position: sticky; */
   display: flex;
+  text-align: center;
   justify-content: center; 
-  filter: invert(100%);
   opacity: 0.3;
   text-decoration: none;
   margin: auto;
