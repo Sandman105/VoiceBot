@@ -10,11 +10,10 @@
 
     <title>Voice_Controlled_Slackbot</title>
 
-    <link rel="shortcut icon" type="image/gif" href="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png">
+    <link rel="shortcut icon" type="image/gif" href="assets/images/microphone.png">
     <link href="https://fonts.googleapis.com/css?family=Quicksand|Raleway|Amatic+SC&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="reset" type="text/css" href="assets/css/reset.css">
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css">
 
 </head>
 
@@ -34,6 +33,15 @@
 
 </div>
 
+<!-- ACTION BUTTON -->
+<div class="section">
+    <div class="container">
+        <button id="speakButton" class="button">
+            <h2>speak</h2>
+        </button>
+    </div>
+</div>
+
 <!-- MENU OVERLAY -->
 <div id="myNav" class="overlay">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
@@ -50,7 +58,7 @@
 
 <div class="row">
     <div class="column">
-        <img id="mic" alt="mic" src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" class="rps"
+        <img id="mic" alt="mic" src="assets/images/microphone.png" class="rps"
             onclick="rps(this.id)">
     </div>
 </div>
@@ -70,25 +78,27 @@
     <div id="chatArea">xxx</div>
 </div>
 
+
+
 <!-- FOOTER -->
 <div class="footer">
 
     <div>
 
         <a href="https://github.com/gquinn1011">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
+            <img src="assets/images/microphone.png" width="36px" height="36px">
         </a>
 
         <a href="https://github.com/sandman105">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
+            <img src="assets/images/microphone.png" width="36px" height="36px">
         </a>
 
         <a href="https://github.com/matthew-lorber">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
+            <img src="assets/images/microphone.png" width="36px" height="36px">
         </a>
 
         <a href="https://github.com/darkcypher777">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
+            <img src="assets/images/microphone.png" width="36px" height="36px">
         </a>
 
     </div>
@@ -103,7 +113,7 @@
 <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-database.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="assets/javascript/javascript.js"></script>
-<script type="text/javascript" src="assets/javascript/download.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.min.js"></script>
 
 </body>
 
