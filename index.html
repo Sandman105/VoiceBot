@@ -8,102 +8,92 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
 
-    <title>Voice_Controlled_Slackbot</title>
+    <title>Voice Controlled Slackbot</title>
 
-    <link rel="shortcut icon" type="image/gif" href="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png">
+    <link rel="shortcut icon" type="image/gif" href="assets/images/microphone.png">
     <link href="https://fonts.googleapis.com/css?family=Quicksand|Raleway|Amatic+SC&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="reset" type="text/css" href="assets/css/reset.css">
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css">
 
 </head>
 
-<!-- TOP NAVIGATION MENU -->
-<div>
+<body>
+    <div class="body-container">
 
-    <!-- TITLE & MENU -->
-    <a class="active">
+        <!-- TOP NAVIGATION MENU -->
+        <div>
 
-        <span></span>
+            <!-- TITLE & MENU -->
+            <a class="active">
+                <span></span>
+                <span class="clickable" style="float:right;">
+                    <span onclick="openNav();">&#9776;</span>
+                </span>
+            </a>
+        </div>
 
-        <span class="clickable" style="float:right;">
-            <span onclick="openNav();">&#9776;</span>
-        </span>
+        <!-- ACTION BUTTON -->
+        <div class="section">
+            <div class="container">
+                <button id="speakButton" class="button">
+                    <img id="mic" alt="mic" src="assets/images/microphone.png" class="rps"
+                        style="width:36px; height:36px; filter:invert(100%)">
+                    <h2>speak</h2>
+                </button>
 
-    </a>
+            </div>
+        </div>
 
-</div>
+        <!-- CHAT INPUT -->
+        <div class="chat-box">
+            <a href="javascript:void(0)">
+                <input id="chatInput" class="clickable" type="text" placeholder="enter chat message"
+                    onchange="addToChat();" autofocus>
+            </a>
 
-<!-- MENU OVERLAY -->
-<div id="myNav" class="overlay">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <div class="overlay-content">
-        <a href="javascript:void(0)">saved #1</a>
-        <a href="javascript:void(0)">saved #2</a>
-        <a href="https://www.patreon.com/matthewlorber">type</a>
-    </div>
-</div>
+            <!-- CHAT AREA -->
+                <div id="chatArea">xxx</div>
+        </div>
 
+        <!-- MENU OVERLAY -->
+        <div id="myNav" class="overlay">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <div class="overlay-content">
+                <a href="javascript:void(0)">saved #1</a>
+                <a href="javascript:void(0)">saved #2</a>
+                <div id="youTubeImages"></div>
+            </div>
+        </div>
 
-<!-- RPS BUTTONS -->
+        <!-- FOOTER -->
+        <div class="footer">
 
+            <a href="https://github.com/gquinn1011">
+                <img src="assets/images/10_avatar-128.png" width="36px" height="36px">
+            </a>
 
-<div class="row">
-    <div class="column">
-        <img id="mic" alt="mic" src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" class="rps"
-            onclick="rps(this.id)">
-    </div>
-</div>
+            <a href="https://github.com/sandman105">
+                <img src="assets/images/1_avatar-128.png" width="36px" height="36px">
+            </a>
 
+            <a href="https://github.com/matthew-lorber">
+                <img src="assets/images/2_avatar-128.png" width="36px" height="36px">
+            </a>
 
-
-<!-- CHAT INPUT -->
-<div>
-    <a href="javascript:void(0)">
-        <input id="chatInput" class="clickable" type="text" placeholder="enter chat message" onchange="addToChat();"
-            autofocus>
-    </a>
-</div>
-
-<!-- CHAT AREA -->
-<div>
-    <div id="chatArea">xxx</div>
-</div>
-
-<!-- FOOTER -->
-<div class="footer">
-
-    <div>
-
-        <a href="https://github.com/gquinn1011">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
-        </a>
-
-        <a href="https://github.com/sandman105">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
-        </a>
-
-        <a href="https://github.com/matthew-lorber">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
-        </a>
-
-        <a href="https://github.com/darkcypher777">
-            <img src="https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_47-128.png" width="36px" height="36px">
-        </a>
+            <a href="https://github.com/darkcypher777">
+                <img src="assets/images/7_avatar-128.png" width="36px" height="36px">
+            </a>
+        </div>
 
     </div>
 
-</div>
-
-
-
-<!-- JAVASCRIPT TAGS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-database.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript" src="assets/javascript/javascript.js"></script>
-<script type="text/javascript" src="assets/javascript/download.js"></script>
+    <!-- JAVASCRIPT TAGS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-database.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/javascript/javascript.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.min.js"></script>
 
 </body>
 
