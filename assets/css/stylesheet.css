@@ -50,9 +50,11 @@ button {
 }
 
 button:active,
-button:focus {
+button:focus,
+a, input {
   border: none;
   outline: none;
+  text-decoration: none;
 }
 
 body {
