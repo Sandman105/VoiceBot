@@ -82,7 +82,7 @@ img, .clickable {
 }
 
 #chatInput {
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
   width: 100%;
   color: #577284;
@@ -170,14 +170,18 @@ img, .clickable {
   justify-content: center;
 }
 
-footer {
-  position: sticky;
-  filter: invert(100%);
-  opacity: 0.3;
-}
-
 a {
   text-decoration: none;
+}
+
+footer {
+  /* position: sticky; */
+  display: flex;
+  justify-content: center; 
+  filter: invert(100%);
+  opacity: 0.3;
+  text-decoration: none;
+  margin: auto;
 }
 
 @media screen and (max-width: 500px) {
