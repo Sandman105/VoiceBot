@@ -2,14 +2,62 @@
   font-family: 'Quicksand', sans-serif;
 }
 
-body {
-  background: slategray;
-  margin: 0;
-  padding: 0;
+h2 {
+	font-family: 'Raleway', Helvetica, sans-serif;
+	font-size: 1.3rem;
+	font-weight: 400;
 }
 
-.silly {
-  font-family: 'Amatic SC', sans-serif;
+.section,
+.container,
+.button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.section {
+	position: relative;
+	height: 500px;
+	width: 100%;
+	margin: 0;
+}
+
+.container {
+	position: relative;
+	height: 200px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+button {
+	position: relative;
+  background-color: rgb(131, 46, 131);
+  color: #fff;
+	height: 80px;
+	width: 240px;
+	border-radius: 40px;
+	margin: 0 auto;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+  user-select: none;
+}
+
+#speakButton {
+  -webkit-transform-origin: 100% 100%;
+	transform-origin: 100% 100%;
+}
+
+button:active,
+button:focus {
+  border: none;
+  outline: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
 
 .column {
@@ -20,24 +68,6 @@ body {
 .row {
   float: left;
   align-content: center;
-}
-
-a,
-img,
-div:focus,
-div:active,
-button,
-button:active, 
-button:focus, 
-input:active, 
-input:focus,
-link,
-link:active,
-link:focus {
-  border: none;
-  outline: none;
-  background: none;
-  text-decoration: none;
 }
 
 img, .clickable {
@@ -134,19 +164,6 @@ img, .clickable {
   font-size: 60px;
 }
   
-.rps {
-  opacity: 0.7;
-  cursor: pointer;
-  width: 50px;
-  height: 50px;
-  filter: invert(44%) sepia(38%) saturate(305%) hue-rotate(161deg) brightness(88%) contrast(89%);
-}
-
-#rpsButtons {
-  background: #ddd;
-  position: sticky; 
-}
-
 .flex-container {
   display: flex;
   flex-direction: row;
