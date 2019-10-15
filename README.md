@@ -14,22 +14,22 @@ VoiceBot Assistant
 <br>
 <h3>Built With</h3>
 <ul>
-<li><a href="#" rel="nofollow">Speech To Text API</a>" - Natural language processing API"</li>
-<li><a href="https://console.developers.google.com/apis/library/youtube.googleapis.com?filter=category%3Ayoutube&id=125bab65-cfb6-4f25-9826-4dcc309bc508&project=voice-bot-255517&authuser=1" rel="nofollow">YouTube Data API v3</a>" - API that provides access to YouTube data, such as videos"</li>
-<li><a href="https://www.themoviedb.org/documentation/api" rel="nofollow">The Movie Database API</a>" - API that provides the movie information"</li>
-<li><a href="http://velocityjs.org" rel="nofollow">Velocity.js</a>" - is used for animations"</li>
+<li><a href="#" rel="nofollow">Speech To Text API</a> - Natural language processing API</li>
+<li><a href="https://console.developers.google.com/apis/library/youtube.googleapis.com?filter=category%3Ayoutube&id=125bab65-cfb6-4f25-9826-4dcc309bc508&project=voice-bot-255517&authuser=1" rel="nofollow">YouTube Data API v3</a> - API that provides access to YouTube data, such as videos</li>
+<li><a href="https://www.themoviedb.org/documentation/api" rel="nofollow">The Movie Database API</a> - API that provides the movie information</li>
+<li><a href="http://velocityjs.org" rel="nofollow">Velocity.js</a> - is used for animations</li>
 </ul>
 <br>
 <h3>Authors</h3>
 <ul>
-<li> == $0 <strong>Matthew Lorber</strong>" - "<a href="https://github.com/matthew-lorber">GitHub</a></li>
-<li> == $0 <strong>Gabe Quinn</strong>" - "<a href="https://github.com/gquinn1011">GitHub</a></li>
-<li> == $0 <strong>Ben Diamond</strong>" - "<a href="https://github.com/darkcypher777">GitHub</a></li>
-<li> == $0 <strong>Craig Ossandon</strong>" - "<a href="https://github.com/sandman105">GitHub</a></li>
+<li><strong>Matthew Lorber</strong> - <a href="https://github.com/matthew-lorber">GitHub</a></li>
+<li><strong>Gabe Quinn</strong> - <a href="https://github.com/gquinn1011">GitHub</a></li>
+<li><strong>Ben Diamond</strong> - <a href="https://github.com/darkcypher777">GitHub</a></li>
+<li><strong>Craig Ossandon</strong> - <a href="https://github.com/sandman105">GitHub</a></li>
 </ul>
 <br>
 <h3>Acknowledgements</h3>
 <ul>
-<li> == $0 <strong>Joe Han, Joshua Appel, Erin Rizal, & Jonathan Ho</strong>" - BCS Instructor and TA's"</li>
-<li> == $0 All of our BCS Classmates that help make the experience amazing!</li>
+<li><strong>Joe Han, Joshua Appel, Erin Rizal, & Jonathan Ho</strong> - BCS Instructor and TA's</li>
+<li>All of our BCS Classmates that help make the experience amazing!</li>
 
