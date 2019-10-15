@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Movie Buttons</title>
+</head>
+
+<body>
+    <button data-movie="top+gun">top gun</button>
+    <button data-movie="jack+reacher">jack reacher</button>
+    <button data-movie="matrix">matrix</button>
+    <div id="movie-info-here">
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $("button").on("click", function() {
+
+            var movie = $(this).attr("data-movie");
+            var queryURL = "https://api.themoviedb.org/3/search/movie?api_key=e10fa0b146653df2fed8a2eebf2fb01c&query=" + movie;
+
+            $.ajax({
+                url: queryURL,
+                method: "GET"
+            })
+
+            .then(function(response) {
+                console.log(queryURL);
+                console.log(response);
+
+                var movieResults = response.results;
+
+                for (var i = 0; i < movieResults.length; i++) {
+                    var movieDiv = $("<div>");
+                    var movieTitle = $("<h1>");
+                    movieTitle.text("Title: " + movieResults[i].title);
+                    var movieInfo = $("<p>").text("Rating: " + movieResults[i].overview);
+                    movieDiv.append(movieTitle);
+                    movieDiv.append(movieInfo);
+                    $("#movie-info-here").prepend(movieDiv);
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
