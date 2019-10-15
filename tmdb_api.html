@@ -30,14 +30,18 @@
 
                 var movieResults = response.results;
 
-                for (var i = 0; i < movieResults.length; i++) {
+                for (var i = 0; i < 5; i++) {
                     var movieDiv = $("<div>");
                     var movieTitle = $("<h1>");
-                    movieTitle.text("Title: " + movieResults[i].title);
-                    var movieInfo = $("<p>").text("Rating: " + movieResults[i].overview);
+                    var moviePoster = $("<img>");
+                    movieTitle.text(movieResults[i].title);
+                    var movieInfo = $("<p>").text(movieResults[i].overview);
+                    var movieDate = $("<p>").text("Released: " + movieResults[i].release_date);
                     movieDiv.append(movieTitle);
                     movieDiv.append(movieInfo);
-                    $("#movie-info-here").prepend(movieDiv);
+                    movieDiv.append(movieDate);
+                    $("#movie-info-here").append(movieDiv);
+                    $("#movie-info-here").append("<img src='https://image.tmdb.org/t/p/w200/" + movieResults[i].poster_path + "'>'");
                 }
             });
         });
