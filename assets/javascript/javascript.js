@@ -40,3 +40,21 @@ $("#speakButton").mousedown(function(){
 		.velocity({ rotateZ: "-8deg" }, 150)
 		.velocity({ translateY: "0", rotateZ: "0" }, {duration: 600, easing: [ 500, 14 ]});
 });
+
+//AJAX request for The Movie Database
+
+var settings = {
+    "async": true,
+    "crossDomain": true,
+    "url": "https://api.themoviedb.org/3/search/movie?api_key=e648f335b279f304f1f10d0e252bc1ac&query=",
+    "method": "GET",
+    "headers": {},
+    "data": "{}"
+  }
+  
+  $.ajax(settings).done(function (response) {
+    console.log(response.results[0].poster_path);
+    console.log(response.results[0].title);
+    console.log(response.results[0].release_date);
+    console.log(response.results[0].overview);
+  })
