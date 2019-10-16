@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
 
-    <title>Voice_Controlled_Slackbot</title>
+    <title>VoiceBot</title>
 
     <link rel="shortcut icon" type="image/gif" href="assets/images/microphone.png">
     <link href="https://fonts.googleapis.com/css?family=Quicksand|Raleway|Amatic+SC&display=swap" rel="stylesheet">
@@ -19,11 +19,25 @@
 
 <body>
 
+    <div id="clickCounter" class="noDisplay">0</div>
+
+    <!-- VOICE ERROR HANDLING -->
+    <a href="http://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html">
+    <div id="info">
+        <p id="info_start">Click on the microphone icon and begin speaking.</p>
+        <p id="info_speak_now">Speak now.</p>
+        <p id="info_no_speech">No speech was detected. You may need to adjust your <a href="//support.google.com/chrome/bin/answer.py?hl=en&amp;answer=1407892">microphone settings</a>.</p>
+        <p id="info_no_microphone" style="display:none">No microphone was found. Ensure that a microphone is installed and that <a href="//support.google.com/chrome/bin/answer.py?hl=en&amp;answer=1407892">microphone settings</a> are configured correctly.</p>
+        <!-- <p id="info_allow">Click the "Allow" button above to enable your microphone.</p> -->
+        <!-- <p id="info_denied">Permission to use microphone was denied.</p> -->
+        <p id="info_denied"></p>
+        <p id="info_blocked">Permission to use microphone is blocked. To change, go to chrome://settings/contentExceptions#media-stream</p>
+        <p id="info_upgrade">Web Speech API is not supported by this browser. Upgrade to <a href="//www.google.com/chrome">Chrome</a> version 25 or later.</p>
+    </div>
+
     <div class="body-container">
 
-        <!-- TOP NAVIGATION MENU -->
-
-        <!-- TITLE & MENU -->
+        <!-- REOPEN MODAL -->
         <a class="active">
             <span></span>
             <span class="clickable" style="float:right;">
@@ -31,36 +45,46 @@
             </span>
         </a>
 
-        <!-- ACTION BUTTON -->
+        <!-- SPEAK BUTTON -->
         <div class="section">
             <div class="container">
-                <button id="speakButton" class="button">
-                    <img id="mic" alt="mic" src="assets/images/microphone.png" class="rps"
-                        style="width:36px; height:36px; filter:invert(100%)">
+                <button id="start_button" class="button" onclick="startButton(event)">
+                    <img id="mic" alt="mic" src="assets/images/microphone.png" class="rps" style="width:36px; height:36px; filter:invert(100%)">
                     <h2>speak</h2>
                 </button>
-
             </div>
         </div>
 
-        <!-- CHAT INPUT -->
-        <div class="chat-box">
-            <a href="javascript:void(0)">
-                <input id="chatInput" class="clickable" type="text" placeholder="enter chat message"
-                    onchange="addToChat();" autofocus>
-            </a>
-
-            <!-- CHAT AREA -->
-            <div id="chatArea">xxx</div>
+        <!-- LANGUAGE SELECTION -->
+        <div class="center">
+            <div id="div_language">
+                <select id="select_language" onchange="updateCountry()"></select>
+                &nbsp;&nbsp;
+                <select id="select_dialect"></select>
+            </div>
         </div>
 
+        <!-- VOICE RETURN -->
+        <div id="results">
+            <span id="final_span" class="final"></span>
+            <span id="interim_span" class="interim"></span><p>
+        </div>
+
+        <!-- CIRCUMVENT VOICE / INPUT -->
+        <!-- <div class="chat-box">
+            <a href="javascript:void(0)">
+                <input id="chatInput" class="clickable" type="text" placeholder="circumvent voice search"
+                    onchange="testVoice();" autofocus>
+            </a>
+        </div>
+        <br><br> -->
+
         <!-- MENU OVERLAY -->
-        <div id="myNav" class="overlay">
+        <div id="modal" class="overlay">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <div class="overlay-content">
-                <a href="javascript:void(0)">saved #1</a>
-                <a href="javascript:void(0)">saved #2</a>
                 <div id="youTubeImages"></div>
+                <div id="movie-info-here"></div>
             </div>
         </div>
 
