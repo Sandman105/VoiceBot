@@ -3,6 +3,39 @@
   text-align: center;
 }
 
+.final {
+  color: darkslategray;
+  padding-right: 3px; 
+}
+.interim {
+  color: gray;
+}
+
+#movie-info-here {
+  color: white;
+}
+#results {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+  min-height: 1em;
+}
+
+a:active,
+a:focus,
+#results:active,
+#results:focus {
+  background: none;
+}
+
+#info {
+  font-size: 20px;
+  text-align: center;
+  color: #777;
+  visibility: hidden;
+}
+
 h2 {
 	font-family: 'Raleway', Helvetica, sans-serif;
 	font-size: 1.3rem;
@@ -19,7 +52,7 @@ h2 {
 
 .section {
 	position: relative;
-	height: 500px;
+	height: 400px;
 	width: 100%;
 	margin: 0;
 }
@@ -124,8 +157,7 @@ img, .clickable {
 }
 
 .active {
-  background-color: #577284;
-  color: white;
+  color: #577284;
 }
 
 .overlay {
