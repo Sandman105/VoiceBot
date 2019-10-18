@@ -4,7 +4,7 @@ VoiceBot Assistant
 <p>The VoiceBot Assistant is voice enabled, speech to text machine learning engine that allows the user to search for videos on YouTube and search for movie information using the The Movie Database.</p>
 <br>
 <h3>Getting Started</h3>
-<p>To use the VoiceBot Assistant, simply navigate to <https://sandman105.github.io/VoiceBot/>, click on the microphone icon and make a request. So for videos, the user can say "Find cat videos" and the user will be returned a short list of cat videos. To search for movie information, the user can say, "Find movie The Big Lebowski" and the search will return information, like the movie title, the movie poster that was used in the original release, the release date, and an overview for the movie. This allows the user to get quick, concise information about a movie. VoiceBot Assistant allows the user to receive a smaller amount of data, without getting overwhelmed with too many results.</p>
+<p>To use the VoiceBot Assistant, simply navigate to <a href="https://sandman105.github.io/VoiceBot" rel="nofollow">VoiceBot</a>, click on the microphone icon and make a request. So for videos, the user can say "Find cat videos" and the user will be returned a short list of cat videos. To search for movie information, the user can say, "Find movie The Big Lebowski" and the search will return information, like the movie title, the movie poster that was used in the original release, the release date, and an overview for the movie. This allows the user to get quick, concise information about a movie. VoiceBot Assistant allows the user to receive a smaller amount of data, without getting overwhelmed with too many results.</p>
 <br>
 <h4>Prerequisites</h4>
 <p>There are no prerequisites, just make sure you have an updated browser, like Google Chrome or Firefox.</p>
@@ -30,6 +30,6 @@ VoiceBot Assistant
 <br>
 <h3>Acknowledgements</h3>
 <ul>
-<li><strong>Joe Han, Joshua Appel, Erin Rizal, & Jonathan Ho</strong> - BCS Instructor and TA's</li>
-<li>All of our BCS Classmates that help make the experience amazing!</li>
+<li><strong>Joe Han, Joshua Appel, Erin Rizal, & Jonathan Ho</strong> - Rutgers BCS Instructor and TA's</li>
+<li>All of our Rutgers BCS Classmates that help make the experience amazing!</li>
 
